@@ -1,0 +1,10 @@
+{
+    "id": "CheckMajor",
+    "name": "Check",
+    "set": "Major",
+    "keywords": ["checkmark", "selected"],
+    "aliases": [""],
+    "description": "The icon should be use to mention check sign in order to mention selection or some aggrement",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "7/31/2024, 2:10:56 PM"
+}
