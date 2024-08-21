@@ -1,10 +1,9 @@
 {
     "name": "@geneui/icons",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Gene UI icons distributed as SVG React components.",
     "author": "SoftConstruct",
     "main": "index.js",
-    "module": "index.js",
     "types": "index.d.ts",
     "contributors": [
         "Hamik Hambardzumyan <hamik.hambardumyan@softconstruct.com> (https://github.com/hamikhambardzumyan)"
@@ -18,9 +17,6 @@
         "mark-as-deprecated": "",
         "bump-up-commit": "babel-node --config-file ./configs/.babelrc ./scripts/postPublish.js"
     },
-    "files": [
-        "dist/*"
-    ],
     "devDependencies": {
         "@babel/cli": "^7.18.9",
         "@babel/core": "^7.18.9",
