@@ -70,4 +70,4 @@ rename icons:
 ## ⚖️ License
 
 The Gene UI design system's icons are licensed under the
-[MIT License](https://github.com/softconstruct/gene-ui-components/blob/main/LICENSE).
+[MIT License](https://github.com/softconstruct/gene-ui-icons/blob/main/LICENSE).
