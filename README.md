@@ -1,8 +1,9 @@
 # @geneui/icons
 
-<!-- [![NPM registry](https://img.shields.io/npm/v/react-box-virtualization?style=for-the-badge&color=red)](https://www.npmjs.com/package/react-box-virtualization) -->
+> The icons library created for the Gene UI design system.
 
-The icons library created for the Gene UI design system.
+[![NPM registry](https://img.shields.io/npm/v/@geneui/icons?style=for-the-badge&color=red)](https://www.npmjs.com/package/@geneui/icons)
+[![License](https://img.shields.io/badge/license-mit-green.svg?style=for-the-badge)](https://github.com/softconstruct/gene-ui-icons/blob/main/LICENSE)
 
 ## Getting Started
 
