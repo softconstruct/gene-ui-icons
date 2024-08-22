@@ -1,6 +1,6 @@
 {
     "name": "@geneui/icons",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Gene UI icons distributed as SVG React components.",
     "author": "SoftConstruct",
     "main": "index.js",
