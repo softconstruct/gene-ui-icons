@@ -1,0 +1,20 @@
+{
+    "id": "ChevronDownMajor",
+    "name": "ChevronDown",
+    "set": "Major",
+    "keywords": [
+        "chevron",
+        "expand",
+        "down",
+        "dropdown",
+        "unfold",
+        "expandmore",
+        "accordion",
+        "collapse",
+        "breadcrumb"
+    ],
+    "aliases": [""],
+    "description": "Indicates navigation between sections, such as moving forward or backward. For example, a right-pointing chevron in a breadcrumb trail indicates a sub-page or category.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 3:59:06 PM"
+}

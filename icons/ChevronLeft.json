@@ -1,0 +1,20 @@
+{
+    "id": "ChevronLeftMajor",
+    "name": "ChevronLeft",
+    "set": "Major",
+    "keywords": [
+        "left",
+        "chevron",
+        "previous",
+        "back",
+        "move left",
+        "navigate left",
+        "previous page",
+        "left arrow",
+        "slide  left"
+    ],
+    "aliases": [""],
+    "description": "The ChevronLeft Component is a key element in providing intuitive navigation, ensuring that users can easily retrace their steps or move to prior content within an application or website.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 4:03:17 PM"
+}

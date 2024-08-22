@@ -1,0 +1,21 @@
+{
+    "id": "DotMajor",
+    "name": "Dot",
+    "set": "Major",
+    "keywords": [
+        "dot",
+        "indicator",
+        "marker",
+        "bullet",
+        "visual cue",
+        "separator",
+        "circle",
+        "status icon",
+        "notification",
+        "tag"
+    ],
+    "aliases": [""],
+    "description": " A small circular element used to represent status, serve as a visual indicator, or provide decorative separation in user interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 4:25:36 PM"
+}

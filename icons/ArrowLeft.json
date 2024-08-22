@@ -1,0 +1,10 @@
+{
+    "id": "ArrowLeftMajor",
+    "name": "ArrowLeft",
+    "set": "Major",
+    "keywords": ["arrow", "left", "back", "return", "navigate", "move", "direction"],
+    "aliases": [""],
+    "description": "A left-pointing arrow icon typically used for navigation purposes, such as returning to a previous page or section.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 2:42:50 PM"
+}
