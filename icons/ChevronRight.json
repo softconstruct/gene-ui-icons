@@ -1,0 +1,24 @@
+{
+    "id": "ChevronRightMajor",
+    "name": "ChevronRight",
+    "set": "Major",
+    "keywords": [
+        "chevron right",
+        "right",
+        "chevron",
+        "next",
+        "navigate right",
+        "right arrow",
+        "next step",
+        "forward",
+        "move right",
+        "next page",
+        "slide right",
+        "proceed",
+        ""
+    ],
+    "aliases": [""],
+    "description": "It is primarily used to facilitate forward navigation, guiding users to move to the next page, screen, or step within an interface. This component is commonly employed in scenarios such as multi-step forms, carousels, and breadcrumb trails, where advancing to subsequent content is necessary.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 4:07:34 PM"
+}

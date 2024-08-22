@@ -1,0 +1,19 @@
+{
+    "id": "ChevronUpMajor",
+    "name": "ChevronUp",
+    "set": "Major",
+    "keywords": [
+        "collapse",
+        "chevron",
+        "up",
+        "close",
+        "hide",
+        "slide up",
+        "upward arrow",
+        "navigate up"
+    ],
+    "aliases": [""],
+    "description": "It is primarily used to indicate actions related to collapsing or hiding content. This component is commonly found in interfaces where users need to close or collapse sections, such as accordions, dropdowns, or expandable lists. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 4:10:53 PM"
+}

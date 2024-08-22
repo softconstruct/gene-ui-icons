@@ -1,0 +1,10 @@
+{
+    "id": "CaretDownMajor",
+    "name": "CaretDown",
+    "set": "Major",
+    "keywords": ["caret", "down", "dropdown", "expand", "open", "triangle", "unfold", "reveal"],
+    "aliases": [""],
+    "description": "A downward-pointing caret icon commonly used to indicate a dropdown menu, expandable content, or additional options. It serves as a visual cue for users to click and reveal hidden content or navigate to submenus. Often found in forms, navigation bars, and selection lists.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 3:54:38 PM"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "GlobeMajor",
+    "name": "Globe",
+    "set": "Major",
+    "keywords": [
+        "globe",
+        "world",
+        "planet",
+        "geography",
+        "earth",
+        "map",
+        "international",
+        "geo",
+        "network"
+    ],
+    "aliases": [""],
+    "description": "An icon representing the globe or Earth, commonly used to signify global reach, international settings, or geographical features in user interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 4:28:13 PM"
+}
