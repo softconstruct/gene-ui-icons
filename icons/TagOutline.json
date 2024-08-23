@@ -1,0 +1,22 @@
+{
+    "id": "TagOutlineMajor",
+    "name": "TagOutline",
+    "set": "Major",
+    "keywords": [
+        "bookmark",
+        "flag",
+        "ticket",
+        "tag label",
+        "label",
+        "marker",
+        "sticker",
+        "identifier",
+        "category",
+        "price",
+        "badge"
+    ],
+    "aliases": [""],
+    "description": "An icon representing a tag, often used to signify labels, categories, or prices, typically shaped like a hanging tag or a label.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 3:00:52 PM"
+}

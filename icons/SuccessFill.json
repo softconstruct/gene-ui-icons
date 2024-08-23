@@ -1,0 +1,23 @@
+{
+    "id": "SuccessFillMajor",
+    "name": "SuccessFill",
+    "set": "Major",
+    "keywords": [
+        "success",
+        "checkmark",
+        "approved",
+        "confirmed",
+        "verified",
+        "completed",
+        "positive",
+        "done",
+        "validation",
+        "pass",
+        "filled success",
+        "status"
+    ],
+    "aliases": [""],
+    "description": "Icon representing success, completion, or approval, filled to emphasize a positive outcome or achievement.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 2:07:01 PM"
+}

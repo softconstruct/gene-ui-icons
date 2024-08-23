@@ -1,0 +1,21 @@
+{
+    "id": "InfoOutlineMajor",
+    "name": "InfoOutline",
+    "set": "Major",
+    "keywords": [
+        "information",
+        "informative",
+        "info",
+        "details",
+        "outline",
+        "help",
+        "support",
+        "guidance",
+        "knowledge",
+        "outlineinfo"
+    ],
+    "aliases": [""],
+    "description": " Icon representing informational content or guidance, outlined to indicate helpful or relevant information.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 1:56:21 PM"
+}

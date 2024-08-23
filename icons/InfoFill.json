@@ -1,0 +1,20 @@
+{
+    "id": "InfoFillMajor",
+    "name": "InfoFill",
+    "set": "Major",
+    "keywords": [
+        "information",
+        "informative",
+        "info",
+        "notification",
+        "help",
+        "support",
+        "guidance",
+        "filled info",
+        ""
+    ],
+    "aliases": [""],
+    "description": "Icon representing informational content or guidance, filled to emphasize the importance of the information provided.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 1:55:16 PM"
+}
