@@ -1,0 +1,23 @@
+{
+    "id": "ErrorAlertOutlineMajor",
+    "name": "ErrorAlertOutline",
+    "set": "Major",
+    "keywords": [
+        "error",
+        "outline",
+        "alert",
+        "warning",
+        "problem",
+        "issue",
+        "failure",
+        "attention",
+        "critical",
+        "danger",
+        "caution",
+        "outlined"
+    ],
+    "aliases": [""],
+    "description": " Icon indicating an error or critical status, outlined to signify a problem or issue that needs attention.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 1:50:20 PM"
+}

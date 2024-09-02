@@ -1,0 +1,10 @@
+{
+    "id": "UnavailableFillMajor",
+    "name": "UnavailableFill",
+    "set": "Major",
+    "keywords": ["unavailable", "restricted", "status", "offline", "closed", "filled"],
+    "aliases": [""],
+    "description": " Icon indicating that a status or resource is unavailable or inaccessible, filled to highlight the lack of availability.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 2:40:31 PM"
+}

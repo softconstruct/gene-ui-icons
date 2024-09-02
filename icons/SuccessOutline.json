@@ -1,0 +1,24 @@
+{
+    "id": "SuccessOutlineMajor",
+    "name": "SuccessOutline",
+    "set": "Major",
+    "keywords": [
+        "success",
+        "checkmark",
+        "completed",
+        "approved",
+        "verified",
+        "confirmed",
+        "pass",
+        "positive",
+        "achievement",
+        "done",
+        "success status",
+        "outline success",
+        "status"
+    ],
+    "aliases": [""],
+    "description": "Icon representing success, completion, or approval, outlined to indicate a verified or confirmed action.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 2:28:47 PM"
+}

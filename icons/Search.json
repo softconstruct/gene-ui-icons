@@ -1,0 +1,20 @@
+{
+    "id": "SearchMajor",
+    "name": "Search",
+    "set": "Major",
+    "keywords": [
+        "search",
+        "magnifier",
+        "find",
+        "explore",
+        "discover",
+        "lookup",
+        "browse",
+        "locate",
+        "investigate"
+    ],
+    "aliases": [""],
+    "description": "Icon representing the action of searching, finding, or looking up information. Typically depicted as a magnifying glass.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 1:42:13 PM"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "WarningOutlineMajor",
+    "name": "WarningOutline",
+    "set": "Major",
+    "keywords": [
+        "danger",
+        "alert",
+        "error",
+        "critical",
+        "important",
+        "alertsign",
+        "notification",
+        "notify",
+        "advisory",
+        "attention"
+    ],
+    "aliases": [""],
+    "description": "An icon used to indicate a warning or cautionary message, often featuring an exclamation mark inside a triangle.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 2:55:49 PM"
+}

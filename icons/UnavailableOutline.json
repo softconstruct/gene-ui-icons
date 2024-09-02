@@ -1,0 +1,22 @@
+{
+    "id": "UnavailableOutlineMajor",
+    "name": "UnavailableOutline",
+    "set": "Major",
+    "keywords": [
+        "unavailable",
+        "satus",
+        "inaccessible",
+        "error",
+        "offline",
+        "closed",
+        "disabled",
+        "not available",
+        "blocked",
+        "restricted",
+        "outlined"
+    ],
+    "aliases": [""],
+    "description": "Icon indicating that a status or resource is unavailable or inaccessible, outlined to signal that something is not available.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 2:51:36 PM"
+}
