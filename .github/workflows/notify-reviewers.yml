@@ -14,7 +14,6 @@ jobs:
                   COMMIT_URL=${{ github.event.head_commit.url }}
                   COMMIT_AUTHOR=${{ github.event.pusher.name }}
 
-                  MESSAGE="@channel\New commit on @geneui/icons: [#$COMMIT_ID]($COMMIT_URL) by @$COMMIT_AUTHOR\n"
+                  MESSAGE="@channel\nNew commit on @geneui/icons\n Commit: [#$COMMIT_ID]($COMMIT_URL) by @$COMMIT_AUTHOR"
 
                   curl -X POST -H "Content-Type: application/json" -d "{\"text\": \"$MESSAGE\", \"username\": \"GitHub\", \"icon_url\": \"https://github.githubassets.com/favicons/favicon.png\"}" $INTERNAL_NOTIFICATION_CHANNEL_API_ENDPOINT
-                  
