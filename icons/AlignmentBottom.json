@@ -1,0 +1,17 @@
+{
+    "id": "AlignmentBottomMajor",
+    "name": "AlignmentBottom",
+    "set": "Major",
+    "keywords": [
+        "align bottom",
+        "vertical alignment",
+        "align objects",
+        "bottom align",
+        "layout alignment",
+        "align elements"
+    ],
+    "aliases": [""],
+    "description": "This icon represents Bottom Alignment, used to align multiple objects or elements along a shared bottom edge or baseline in design layouts.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:31:54 PM"
+}
