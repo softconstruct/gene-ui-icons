@@ -1,0 +1,19 @@
+{
+    "id": "BookmarkFilledMajor",
+    "name": "BookmarkFilled",
+    "set": "Major",
+    "keywords": [
+        "bookmark filled",
+        "saved",
+        "marked",
+        "highlighted",
+        "favorite",
+        "selected",
+        "solid",
+        "ribbon"
+    ],
+    "aliases": [""],
+    "description": "A bookmark filled icon represents an item that has already been saved or marked. It usually appears as a solid, filled-in ribbon or flag shape, indicating active selection or highlighting for easy retrieval.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/12/2024, 2:32:48 PM"
+}
