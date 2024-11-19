@@ -1,0 +1,10 @@
+{
+    "id": "CalendarRemoveFilledMajor",
+    "name": "CalendarRemoveFilled",
+    "set": "Major",
+    "keywords": ["Calendar", "remove", "delete", "cancel", "event", "schedule", "filled."],
+    "aliases": [""],
+    "description": "The calendar remove filled icon represents a highlighted or emphasized action of deleting or canceling an event or removing an entry from a calendar or schedule.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/18/2024, 12:54:37 PM"
+}

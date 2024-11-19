@@ -1,0 +1,21 @@
+{
+    "id": "ClockFilledMajor",
+    "name": "ClockFilled",
+    "set": "Major",
+    "keywords": [
+        "clock",
+        "time",
+        "minute",
+        "hour",
+        "watch",
+        "alarm",
+        "timer",
+        "schedule",
+        "timekeeping",
+        "filled clock"
+    ],
+    "aliases": [""],
+    "description": "The clock filled icon represents a filled version of a clock, typically with solid or bold elements to provide a more prominent, visually striking appearance. It is used to indicate time-related features such as alarms, schedules, timers, or time tracking within applications. The filled design makes it stand out in a UI, often used for buttons or icons that require high visibility in time management-related tasks.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:30:35 AM"
+}

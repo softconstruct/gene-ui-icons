@@ -1,0 +1,20 @@
+{
+    "id": "CursorClickMajor",
+    "name": "CursorClick",
+    "set": "Major",
+    "keywords": [
+        "cursor",
+        "click",
+        "pointer",
+        "mouse",
+        "interaction",
+        "action",
+        "navigation",
+        "select",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Cursor Click icon represents a cursor or pointer in the act of clicking, often used to signify user interaction or selection within a UI. It visually indicates that an action is required, such as clicking a button, selecting a link, or triggering a function. This icon is commonly used in interactive elements to guide users on where they can click or perform actions.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:32:20 AM"
+}

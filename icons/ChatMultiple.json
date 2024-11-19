@@ -1,0 +1,10 @@
+{
+    "id": "ChatMultipleMajor",
+    "name": "ChatMultiple",
+    "set": "Major",
+    "keywords": ["Chat", "multiple", "messages", "conversation", "communication", "group."],
+    "aliases": [""],
+    "description": "The chat multiple icon represents group conversations or multiple chat threads, often used to indicate messaging or communication features involving more than one person or thread.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 10:56:25 AM"
+}

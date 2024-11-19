@@ -1,0 +1,10 @@
+{
+    "id": "ChevronDoubleRightMajor",
+    "name": "ChevronDoubleRight",
+    "set": "Major",
+    "keywords": ["Chevron", "double right", "navigation", "forward", "next", "fast forward."],
+    "aliases": [""],
+    "description": "The chevron double right icon represents quick navigation or movement to the right, typically used to indicate advancing multiple steps, accessing the next section, or fast-forwarding in a sequence.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/18/2024, 12:49:55 PM"
+}

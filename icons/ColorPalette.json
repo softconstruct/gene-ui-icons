@@ -1,0 +1,10 @@
+{
+    "id": "ColorPaletteMajor",
+    "name": "ColorPalette",
+    "set": "Major",
+    "keywords": ["Color", "palette", "paint", "design", "creativity", "art", "customization."],
+    "aliases": [""],
+    "description": "The color palette icon represents tools for selecting or customizing colors, commonly used in design, art, or creative applications to indicate color selection or theme customization options.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:00:50 AM"
+}
