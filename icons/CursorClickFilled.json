@@ -1,0 +1,20 @@
+{
+    "id": "CursorClickFilledMajor",
+    "name": "CursorClickFilled",
+    "set": "Major",
+    "keywords": [
+        "cursor",
+        "click",
+        "pointer",
+        "mouse",
+        "interaction",
+        "action",
+        "navigation",
+        "select",
+        "filled cursor"
+    ],
+    "aliases": [""],
+    "description": "The Cursor Click Filled icon represents a filled or solid version of the cursor in the act of clicking, providing a bolder, more prominent visual compared to the standard cursor icon. It is used to indicate user interaction, such as selecting, pressing, or activating elements within a UI. The filled design makes it more noticeable, emphasizing the action of clicking or pressing a UI element.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:33:24 AM"
+}

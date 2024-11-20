@@ -1,0 +1,15 @@
+{
+    "id": "CaretRightFilledMajor",
+    "name": "CaretRightFilled",
+    "set": "Major",
+    "keywords": ["Caret", "right", "filled", "arrow", "navigation", "forward", "next"],
+    "aliases": [
+        "The caret right filled icon indicates navigation or movement to the right",
+        "typically used to signify progressing forward",
+        "accessing the next item",
+        "or expanding a section."
+    ],
+    "description": "The caret right filled icon indicates navigation or movement to the right,typically used to   ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/18/2024, 11:30:23 AM"
+}

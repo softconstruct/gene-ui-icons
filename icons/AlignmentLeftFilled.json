@@ -1,0 +1,18 @@
+{
+    "id": "AlignmentLeftFilledMajor",
+    "name": "AlignmentLeftFilled",
+    "set": "Major",
+    "keywords": [
+        "align left filled",
+        "left alignment filled",
+        "filled align left",
+        "horizontal left align filled",
+        "left edge alignment filled"
+    ],
+    "aliases": [
+        
+    ],
+    "description": "This icon represents Filled Left Alignment, used to align objects or elements along a shared left edge with a filled style.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:41:02 PM"
+}

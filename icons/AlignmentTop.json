@@ -1,0 +1,16 @@
+{
+    "id": "AlignmentTopMajor",
+    "name": "AlignmentTop",
+    "set": "Major",
+    "keywords": [
+        "align top",
+        "top alignment",
+        "top edge align",
+        "vertical align top",
+        "align objects top"
+    ],
+    "aliases": [""],
+    "description": "This icon represents Top Alignment, used to align objects or elements along a shared top edge.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:48:46 PM"
+}

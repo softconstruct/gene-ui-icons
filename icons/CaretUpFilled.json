@@ -1,0 +1,10 @@
+{
+    "id": "CaretUpMajor",
+    "name": "CaretUpFilled",
+    "set": "Major",
+    "keywords": ["caret", "up","filled", "arrow", "collapse", "close", "fold", "hide", "collapsemenu"],
+    "aliases": [""],
+    "description": "An upward-pointing filled caret icon typically used to indicate the collapse or closing of a dropdown menu, hidden content, or additional options. It signals that content can be hidden or retracted. Often used in forms, navigation bars, and expandable lists.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/22/2024, 3:55:48 PM"
+}

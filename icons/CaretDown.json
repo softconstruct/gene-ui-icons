@@ -2,9 +2,19 @@
     "id": "CaretDownMajor",
     "name": "CaretDown",
     "set": "Major",
-    "keywords": ["caret", "down", "dropdown", "expand", "open", "triangle", "unfold", "reveal"],
+    "keywords": [
+        "dropdown",
+        "expand",
+        "collapse",
+        "navigation",
+        "menu",
+        "arrow",
+        "downward",
+        "UI indicator",
+        "toggle"
+    ],
     "aliases": [""],
-    "description": "A downward-pointing caret icon commonly used to indicate a dropdown menu, expandable content, or additional options. It serves as a visual cue for users to click and reveal hidden content or navigate to submenus. Often found in forms, navigation bars, and selection lists.",
+    "description": "The Caret Down icon is a small triangular symbol pointing downward. It is commonly used to indicate a dropdown menu, expand/collapse functionality, or to suggest navigation to additional content below",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "8/22/2024, 3:54:38 PM"
+    "creation_date": "11/18/2024, 11:21:14 AM"
 }

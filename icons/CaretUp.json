@@ -2,9 +2,9 @@
     "id": "CaretUpMajor",
     "name": "CaretUp",
     "set": "Major",
-    "keywords": ["caret", "up", "arrow", "collapse", "close", "fold", "hide", "collapsemenu"],
+    "keywords": ["Caret", "up", "arrow", "navigation", "collapse", "upward."],
     "aliases": [""],
-    "description": "An upward-pointing caret icon typically used to indicate the collapse or closing of a dropdown menu, hidden content, or additional options. It signals that content can be hidden or retracted. Often used in forms, navigation bars, and expandable lists.",
+    "description": "The caret up icon indicates upward movement or navigation, typically used to collapse a section, scroll up, or indicate an increase in value or hierarchy.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "8/22/2024, 3:55:48 PM"
+    "creation_date": "11/18/2024, 12:50:43 PM"
 }

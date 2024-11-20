@@ -1,0 +1,10 @@
+{
+    "id": "CalendarRemoveMajor",
+    "name": "CalendarRemove",
+    "set": "Major",
+    "keywords": ["Calendar", "remove", "delete", "cancel", "event", "schedule"],
+    "aliases": [""],
+    "description": "The calendar remove icon represents the action of deleting or canceling an event or removing an entry from a calendar or schedule.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/18/2024, 12:55:52 PM"
+}

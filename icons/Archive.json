@@ -1,0 +1,17 @@
+{
+    "id": "ArchiveMajor",
+    "name": "Archive",
+    "set": "Major",
+    "keywords": [
+        "Archive",
+        "file storage",
+        "data preservation",
+        "document retention",
+        "save",
+        "backup."
+    ],
+    "aliases": [""],
+    "description": "The archive icon typically represents the action of storing or preserving files or documents for long-term storage, often in a compressed or organized format for easy retrieval. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 1:56:06 PM"
+}

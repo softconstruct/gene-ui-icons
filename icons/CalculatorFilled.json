@@ -1,0 +1,20 @@
+{
+    "id": "CalculatorFilledMajor",
+    "name": "CalculatorFilled",
+    "set": "Major",
+    "keywords": [
+        "calculator",
+        "math",
+        "numbers",
+        "finance",
+        "equation",
+        "addition",
+        "minus",
+        "plus",
+        "filled"
+    ],
+    "aliases": [""],
+    "description": "The Calculator filled icon represents a filled version of a calculator, typically depicted with solid or filled shapes. It is used to signify a tool for performing mathematical operations within applications, often related to finance, accounting, or data analysis",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:27:20 AM"
+}

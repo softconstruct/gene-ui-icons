@@ -1,0 +1,10 @@
+{
+    "id": "ChevronRightLeftMajor",
+    "name": "ChevronRightLeft",
+    "set": "Major",
+    "keywords": ["chevron", "right arrow", "left arrow", "navigation", "direction", "collapse", ""],
+    "aliases": [""],
+    "description": "The ChevronRightLeft icon represents directional arrows typically used for navigation purposes, allowing users to toggle between two states, such as expanding or collapsing content, moving left or right, or navigating through sections in a UI. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:07:58 AM"
+}

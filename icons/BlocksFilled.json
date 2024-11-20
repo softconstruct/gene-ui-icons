@@ -1,0 +1,10 @@
+{
+    "id": "BlocksFilledMajor",
+    "name": "BlocksFilled",
+    "set": "Major",
+    "keywords": ["Blocks", "grid", "filled", "layout", "menu", "applications."],
+    "aliases": [""],
+    "description": "The Blocks Filled icon represents a filled grid or group of items, often used to indicate a structured layout, applications menu, or a collection of items organized in blocks. It can symbolize access to multiple features or sections within a system.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/15/2024, 11:22:01 AM"
+}

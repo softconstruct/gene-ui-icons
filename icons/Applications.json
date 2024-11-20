@@ -1,0 +1,10 @@
+{
+    "id": "ApplicationsMajor",
+    "name": "Applications",
+    "set": "Major",
+    "keywords": ["apps", "programs", "software", "tools"],
+    "aliases": [""],
+    "description": "The applications icon represents access to a collection or menu of available programs, tools, or features within a system. It is often used to open a dashboard or launcher for navigating different applications or functionalities.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/12/2024, 8:06:22 AM"
+}

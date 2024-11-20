@@ -1,0 +1,20 @@
+{
+    "id": "ClockMajor",
+    "name": "Clock",
+    "set": "Major",
+    "keywords": [
+        "clock",
+        "time",
+        "minute",
+        "hour",
+        "watch",
+        "alarm",
+        "timer",
+        "schedule",
+        "timekeeping"
+    ],
+    "aliases": [""],
+    "description": "The Clock icon represents a timepiece, typically used to indicate time-related features such as clocks, schedules, or timers. It is commonly used in applications for setting alarms, tracking time, managing appointments, or displaying current time. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:29:13 AM"
+}
