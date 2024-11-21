@@ -3,12 +3,28 @@
     "version": "1.0.5",
     "description": "Gene UI icons distributed as SVG React components.",
     "author": "SoftConstruct",
+    "homepage": "https://github.com/softconstruct/gene-ui-icons#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softconstruct/gene-ui-icons"
+    },
+    "bugs": {
+        "url": "https://github.com/softconstruct/gene-ui-icons/issues"
+    },
+    "keywords": [
+        "react",
+        "gene-ui",
+        "design-system",
+        "SVG",
+        "icon",
+        "icons",
+        "iconography"
+    ],
     "main": "index.js",
     "types": "index.d.ts",
     "contributors": [
         "Hamik Hambardzumyan <hamik.hambardumyan@softconstruct.com> (https://github.com/hamikhambardzumyan)"
     ],
-    "license": "MIT",
     "scripts": {
         "build": "babel-node --config-file ./configs/.babelrc ./scripts/build.js",
         "create-icon": "babel-node --config-file ./configs/.babelrc ./scripts/createIcon.js",
@@ -41,5 +57,6 @@
     "peerDependencies": {
         "react": "^16.0.0 || ^17.0.0 || ^18.0.0",
         "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0"
-    }
+    },
+    "license": "MIT"
 }
