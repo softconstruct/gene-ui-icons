@@ -1,0 +1,10 @@
+{
+    "id": "AlignmentRightMajor",
+    "name": "AlignmentRight",
+    "set": "Major",
+    "keywords": ["align right", "right alignment", "right edge align", "horizontal align right"],
+    "aliases": [""],
+    "description": "This icon represents Right Alignment, used to align objects or elements along a shared right edge.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:46:17 PM"
+}

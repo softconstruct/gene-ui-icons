@@ -1,0 +1,10 @@
+{
+    "id": "ArrowUpMajor",
+    "name": "ArrowUp",
+    "set": "Major",
+    "keywords": ["arrow up", "direction up", "navigate up", "move up", "upward arrow"],
+    "aliases": [""],
+    "description": "This icon represents an Upward Arrow, commonly used to indicate upward navigation, upload actions, or moving an element up.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:18:33 PM"
+}

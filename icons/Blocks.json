@@ -1,0 +1,10 @@
+{
+    "id": "BlocksMajor",
+    "name": "Blocks",
+    "set": "Major",
+    "keywords": ["Blocks", "grid", "layout", "structure", "menu", "applications."],
+    "aliases": [""],
+    "description": "The blocks icon represents a grid or collection of items organized in blocks, typically used to indicate a structured layout, an applications menu, or a dashboard view. It symbolizes access to various features or sections within a system.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/15/2024, 11:20:52 AM"
+}

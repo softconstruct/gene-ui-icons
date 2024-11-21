@@ -1,0 +1,13 @@
+{
+    "id": "CheckboxMajor",
+    "name": "Checkbox",
+    "set": "Major",
+    "keywords": ["Checkbox", "select", "tick", "option", "choice", "mark."],
+    "aliases": [
+        "The checkbox icon represents an interactive element used to select or mark options",
+        "indicating a choice or confirming a selection in forms or lists."
+    ],
+    "description": "The checkbox icon represents an interactive element used to select or mark options, indicating a choice or confirming a selection in forms or lists.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/18/2024, 12:57:10 PM"
+}

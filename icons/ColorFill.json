@@ -1,0 +1,23 @@
+{
+    "id": "ColorFillMajor",
+    "name": "ColorFill",
+    "set": "Major",
+    "keywords": [
+        "Color",
+        "fill",
+        "paint",
+        "customization",
+        "design",
+        "bucket",
+        "apply",
+        "background",
+        "palette",
+        "shading",
+        "tint",
+        "area."
+    ],
+    "aliases": [""],
+    "description": "The color fill icon represents the action of applying or filling a selected area, shape, or background with a specific color, commonly used in design and editing tools.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:05:05 AM"
+}

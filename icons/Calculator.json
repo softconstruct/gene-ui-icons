@@ -1,0 +1,20 @@
+{
+    "id": "CalculatorMajor",
+    "name": "Calculator",
+    "set": "Major",
+    "keywords": [
+        "calculator",
+        "math",
+        "numbers",
+        "finance",
+        "equation",
+        "addition",
+        "minus",
+        "plus",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Calculator icon represents a tool used for performing mathematical operations. It is commonly used in finance, accounting, or data-related applications, allowing users to perform quick calculations. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 11:25:28 AM"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "AttachmentMajor",
+    "name": "Attachment",
+    "set": "Major",
+    "keywords": ["Attachment", "file", "document", "paperclip", "link", "add", "attach"],
+    "aliases": [""],
+    "description": "The attachment icon represents the action of adding or linking a file or document to a message, email, or form. It is commonly used to indicate that additional files can be included or are attached for reference.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/12/2024, 8:10:38 AM"
+}

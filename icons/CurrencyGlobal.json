@@ -1,0 +1,21 @@
+{
+    "id": "CurrencyGlobalMajor",
+    "name": "CurrencyGlobal",
+    "set": "Major",
+    "keywords": [
+        "currency",
+        "global",
+        "icon",
+        "international",
+        "exchange",
+        "finance",
+        "money",
+        "symbol",
+        "global economy",
+        "payment."
+    ],
+    "aliases": [""],
+    "description": "A currency global icon represents the concept of international finance and currency exchange, often symbolizing global economic transactions, payments, and the movement of money across borders. It visually communicates the interconnectedness of financial systems worldwide.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 1:30:05 PM"
+}

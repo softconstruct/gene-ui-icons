@@ -1,0 +1,16 @@
+{
+    "id": "AlignmentTopFilledMajor",
+    "name": "AlignmentTopFilled",
+    "set": "Major",
+    "keywords": [
+        "align top filled",
+        "top alignment filled",
+        "filled align top",
+        "vertical top align filled",
+        "top edge alignment filled"
+    ],
+    "aliases": [""],
+    "description": "This icon represents Filled Top Alignment, used to align objects or elements along a shared top edge with a filled style.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:47:44 PM"
+}

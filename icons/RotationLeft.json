@@ -1,0 +1,10 @@
+{
+    "id": "RotationLeftMajor",
+    "name": "RotationLeft",
+    "set": "Major",
+    "keywords": ["rotate left", "turn left", "undo", "reset"],
+    "aliases": [""],
+    "description": "The arrow rotate counterclockwise icon represents the action of rotating an element to the left, often used for resetting, undoing changes, or refreshing content in a counterclockwise direction.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/12/2024, 9:15:41 AM"
+}

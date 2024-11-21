@@ -1,0 +1,16 @@
+{
+    "id": "AlignmentLeftMajor",
+    "name": "AlignmentLeft",
+    "set": "Major",
+    "keywords": [
+        "align left",
+        "left alignment",
+        "left edge align",
+        "horizontal align left",
+        "align objects left"
+    ],
+    "aliases": [""],
+    "description": "This icon represents Left Alignment, used to align objects or elements along a shared left edge.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/11/2024, 12:42:46 PM"
+}

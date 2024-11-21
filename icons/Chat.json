@@ -1,0 +1,10 @@
+{
+    "id": "ChatMajor",
+    "name": "Chat",
+    "set": "Major",
+    "keywords": ["Chat", "message", "conversation", "communication", "talk", "bubble."],
+    "aliases": [""],
+    "description": "The chat icon represents messaging or communication, typically used to signify a single conversation or the ability to send and receive messages.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/19/2024, 10:57:14 AM"
+}
