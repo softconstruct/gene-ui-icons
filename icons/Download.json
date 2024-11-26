@@ -1,0 +1,10 @@
+{
+    "id": "DownloadMajor",
+    "name": "Download",
+    "set": "Major",
+    "keywords": ["download", "arrow", "save", "file", "receive", "storage", "retrieve"],
+    "aliases": [""],
+    "description": "The Download icon typically features a downward-pointing arrow, symbolizing the action of saving or retrieving files or data from a source to a local device. It is commonly used in applications for actions like saving documents, importing files, or transferring data. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/26/2024, 1:08:52 PM"
+}

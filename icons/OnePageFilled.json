@@ -1,0 +1,20 @@
+{
+    "id": "OnePageFilledMajor",
+    "name": "OnePageFilled",
+    "set": "Major",
+    "keywords": [
+        "one",
+        "page",
+        "single",
+        "document",
+        "view",
+        "scroll",
+        "display",
+        "filled",
+        "full page"
+    ],
+    "aliases": [""],
+    "description": "The One Page Filled icon represents a single, filled page, often used to signify a focused, full-screen or one-page view. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/26/2024, 4:38:38 PM"
+}
