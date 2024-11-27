@@ -1,0 +1,19 @@
+{
+    "id": "FolderFilledMajor",
+    "name": "FolderFilled",
+    "set": "Major",
+    "keywords": [
+        "folder",
+        "file",
+        "document",
+        "directory",
+        "storage",
+        "organization",
+        "data",
+        "content"
+    ],
+    "aliases": [""],
+    "description": "The Folder Filled icon represents a bold, solid version of a folder, emphasizing its presence and usability. It is commonly used in file management interfaces, content organization systems, or applications to symbolize a directory or storage location.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:28:20 PM"
+}

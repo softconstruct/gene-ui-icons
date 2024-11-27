@@ -1,0 +1,10 @@
+{
+    "id": "FolderOpenFilledMajor",
+    "name": "FolderOpenFilled",
+    "set": "Major",
+    "keywords": ["folder", "open", "file", "document", "access", "data", "view", "filled"],
+    "aliases": [""],
+    "description": "The Folder Open Filled icon represents a bold, solid version of an open folder, emphasizing accessibility to its contents. It is used to signify an active or expanded folder in file management systems or organizational tools.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:30:52 PM"
+}
