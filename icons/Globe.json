@@ -3,18 +3,19 @@
     "name": "Globe",
     "set": "Major",
     "keywords": [
-        "globe",
-        "world",
-        "planet",
-        "geography",
-        "earth",
-        "map",
-        "international",
-        "geo",
-        "network"
+        "Globe",
+        "World",
+        "Earth",
+        "Global",
+        "Map",
+        "International",
+        "Location",
+        "Geography",
+        "Travel",
+        "Network"
     ],
     "aliases": [""],
-    "description": "An icon representing the globe or Earth, commonly used to signify global reach, international settings, or geographical features in user interfaces.",
+    "description": "The Globe icon symbolizes the Earth, representing global reach, international access, or geographic locations. It's often used in applications related to travel, maps, or global connectivity.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "8/22/2024, 4:28:13 PM"
+    "creation_date": "11/28/2024, 2:21:06 PM"
 }
