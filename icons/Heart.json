@@ -1,0 +1,10 @@
+{
+    "id": "HeartMajor",
+    "name": "Heart",
+    "set": "Major",
+    "keywords": ["heart", "like", "love", "favourite", "support", "emotion", "care"],
+    "aliases": [""],
+    "description": "The Heart icon symbolizes love, affection, or favoritism. It is commonly used in applications to indicate liking, saving, or marking something as a favorite.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/28/2024, 11:16:35 AM"
+}
