@@ -1,0 +1,20 @@
+{
+    "id": "LetterMajor",
+    "name": "Letter",
+    "set": "Major",
+    "keywords": [
+        "letter",
+        "text",
+        "alphabet",
+        "character",
+        "message",
+        "communication",
+        "writing",
+        "document",
+        "mail"
+    ],
+    "aliases": [""],
+    "description": "The Letter icon represents a single character or text, often used in messaging, document, or communication-related applications to symbolize writing or content creation.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/29/2024, 11:42:03 AM"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "HamburgerMenuMajor",
+    "name": "HamburgerMenu",
+    "set": "Major",
+    "keywords": [
+        "hamburger",
+        "menu",
+        "navigation",
+        "three",
+        "lines",
+        "options",
+        "bar",
+        "interface",
+        "toggle"
+    ],
+    "aliases": [""],
+    "description": "The Hamburger Menu icon represents a collapsible navigation menu, commonly used to toggle options or sections in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/3/2024, 12:32:07 PM"
+}

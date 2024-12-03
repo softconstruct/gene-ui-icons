@@ -1,0 +1,20 @@
+{
+    "id": "LockMajor",
+    "name": "Lock",
+    "set": "Major",
+    "keywords": [
+        "lock",
+        "security",
+        "privacy",
+        "protection",
+        "safe",
+        "secure",
+        "padlock",
+        "access",
+        "restriction"
+    ],
+    "aliases": [""],
+    "description": "The Lock icon represents security or restricted access, commonly used to indicate protected content, private settings, or secure actions in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/29/2024, 11:24:11 AM"
+}
