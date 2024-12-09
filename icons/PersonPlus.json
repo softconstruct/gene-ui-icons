@@ -1,0 +1,20 @@
+{
+    "id": "PersonPlusMajor",
+    "name": "PersonPlus",
+    "set": "Major",
+    "keywords": [
+        "person",
+        "plus",
+        "add",
+        "user",
+        "profile",
+        "inclusion",
+        "new",
+        "member",
+        "account"
+    ],
+    "aliases": [""],
+    "description": "The Person Plus icon represents adding a new user or member, commonly used in applications to indicate user inclusion, account creation, or profile addition.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/9/2024, 1:05:25 PM"
+}

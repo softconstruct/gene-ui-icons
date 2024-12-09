@@ -1,0 +1,20 @@
+{
+    "id": "PlayMajor",
+    "name": "Play",
+    "set": "Major",
+    "keywords": [
+        "play",
+        "start",
+        "video",
+        "media",
+        "music",
+        "action",
+        "begin",
+        "button",
+        "control"
+    ],
+    "aliases": [""],
+    "description": "The Play icon represents the action of starting or playing media, such as videos or music, commonly used as a control button to begin playback in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/9/2024, 1:31:19 PM"
+}
