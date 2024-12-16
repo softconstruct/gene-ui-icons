@@ -1,0 +1,20 @@
+{
+    "id": "StarMajor",
+    "name": "Star",
+    "set": "Major",
+    "keywords": [
+        "star",
+        "favorite",
+        "rating",
+        "highlight",
+        "bookmark",
+        "feature",
+        "important",
+        "mark",
+        "quality"
+    ],
+    "aliases": [""],
+    "description": "The Star icon represents a favorite or highlighted item, commonly used to indicate ratings, bookmarks, or important features in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/16/2024, 5:46:12 PM"
+}
