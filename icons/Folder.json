@@ -1,0 +1,19 @@
+{
+    "id": "FolderMajor",
+    "name": "Folder",
+    "set": "Major",
+    "keywords": [
+        "folder",
+        "file",
+        "document",
+        "directory",
+        "storage",
+        "organization",
+        "data",
+        "content"
+    ],
+    "aliases": [""],
+    "description": "he Folder icon represents a traditional folder used to store and organize files or documents. It is commonly used in interfaces for file management, content organization, or data storage systems.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:27:23 PM"
+}

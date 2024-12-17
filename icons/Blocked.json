@@ -1,0 +1,20 @@
+{
+    "id": "BlockedMajor",
+    "name": "Blocked",
+    "set": "Major",
+    "keywords": [
+        "blocked",
+        "restriction",
+        "ban",
+        "stop",
+        "denied",
+        "access",
+        "prohibited",
+        "blocked user",
+        "unavailable"
+    ],
+    "aliases": [""],
+    "description": "The Blocked icon represents a restriction or prohibition, commonly used to indicate denied access, a blocked user, or unavailable content in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/9/2024, 1:30:23 PM"
+}

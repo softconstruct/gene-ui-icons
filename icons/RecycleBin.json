@@ -1,0 +1,19 @@
+{
+    "id": "RecycleBinMajor",
+    "name": "RecycleBin",
+    "set": "Major",
+    "keywords": [
+        "recycle bin",
+        "delete",
+        "remove",
+        "garbage",
+        "clear",
+        "discard",
+        "waste",
+        "trash"
+    ],
+    "aliases": [""],
+    "description": "The Recycle Bin icon represents a trash container, commonly used in applications to signify the action of deleting or discarding items. It is often associated with functionality like removing files, clearing data, or managing deleted content.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/25/2024, 3:35:09 PM"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "CircleXFilledMajor",
+    "name": "CircleXFilled",
+    "set": "Major",
+    "keywords": [
+        "Circle",
+        "x",
+        "close",
+        "cancel",
+        "error",
+        "remove",
+        "reject",
+        "clear",
+        "delete",
+        "filled",
+        "dismiss"
+    ],
+    "aliases": [""],
+    "description": "The CircleXFilled icon represents a filled circle with an \"X\" inside, typically used to indicate the action of closing, canceling, or rejecting something with a more prominent, bold design.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/26/2024, 4:35:12 PM"
+}

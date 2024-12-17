@@ -1,0 +1,20 @@
+{
+    "id": "LockOpenMajor",
+    "name": "LockOpen",
+    "set": "Major",
+    "keywords": [
+        "lock",
+        "open",
+        "security",
+        "unlock",
+        "access",
+        "privacy",
+        "protection",
+        "safe",
+        "padlock"
+    ],
+    "aliases": [""],
+    "description": "The Lock Open icon represents unlocked access, commonly used to indicate open or unrestricted content, settings, or actions in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/29/2024, 11:25:31 AM"
+}

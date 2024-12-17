@@ -1,0 +1,21 @@
+{
+    "id": "ImageMajor",
+    "name": "Image",
+    "set": "Major",
+    "keywords": [
+        "Image",
+        "Picture",
+        "Photo",
+        "Media",
+        "Visual",
+        "File",
+        "Photo Gallery",
+        "Content",
+        "Graphic",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Image icon represents a visual or photo, commonly used to symbolize media files or image content. It is typically found in galleries, media libraries, or applications where images are displayed or uploaded.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/28/2024, 2:26:43 PM"
+}

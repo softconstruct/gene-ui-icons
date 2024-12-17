@@ -1,0 +1,19 @@
+{
+    "id": "CircleInfoMajor",
+    "name": "CircleInfo",
+    "set": "Major",
+    "keywords": [
+        "circle",
+        "info",
+        "information",
+        "help",
+        "guidance",
+        "details",
+        "support",
+        "notification"
+    ],
+    "aliases": [""],
+    "description": "The Circle Info icon represents information enclosed in a circular design, commonly used to provide details, guidance, or notifications in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/11/2024, 12:46:57 PM"
+}

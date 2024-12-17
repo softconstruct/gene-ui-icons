@@ -1,0 +1,19 @@
+{
+    "id": "WindowNewMajor",
+    "name": "WindowNew",
+    "set": "Major",
+    "keywords": [
+        "new window",
+        "window",
+        "redirect",
+        "navigation",
+        "external link",
+        "new page",
+        "hyperlink",
+        "url"
+    ],
+    "aliases": [""],
+    "description": "Icon indicating the action to open a link in a new window or tab.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/3/2024, 12:58:18 PM"
+}

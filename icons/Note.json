@@ -1,0 +1,21 @@
+{
+    "id": "NoteMajor",
+    "name": "Note",
+    "set": "Major",
+    "keywords": [
+        "note",
+        "message",
+        "text",
+        "reminder",
+        "memo",
+        "document",
+        "comment",
+        "communication",
+        "writing",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Note icon represents a written message or reminder, commonly used to indicate a note, comment, or brief text in applications for communication or documentation purposes.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/3/2024, 12:41:07 PM"
+}

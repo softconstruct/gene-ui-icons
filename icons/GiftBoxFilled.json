@@ -1,0 +1,21 @@
+{
+    "id": "GiftBoxFilledMajor",
+    "name": "GiftBoxFilled",
+    "set": "Major",
+    "keywords": [
+        "gift",
+        "box",
+        "present",
+        "package",
+        "surprise",
+        "celebation",
+        "promotion",
+        "event",
+        "filled",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Gift Box Filled icon represents a solid, filled version of a gift box, often used to convey the idea of giving, receiving, or celebrating with a present. It is commonly used in e-commerce, promotional campaigns, or event-based interfaces to highlight special offers, rewards, or festive events.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/28/2024, 2:19:00 PM"
+}

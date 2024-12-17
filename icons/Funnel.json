@@ -1,0 +1,10 @@
+{
+    "id": "FilterMajor",
+    "name": "Funnel",
+    "set": "Major",
+    "keywords": ["filter", "sort", "funnel", "adjust", "options", "refine"],
+    "aliases": [""],
+    "description": "The Funnel icon represents the action of refining or sorting data by applying specific criteria. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:40:05 PM"
+}

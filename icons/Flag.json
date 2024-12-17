@@ -1,0 +1,10 @@
+{
+    "id": "FlagMajor",
+    "name": "Flag",
+    "set": "Major",
+    "keywords": ["flag", "marker", "tag", "highlight", "attention", "notification", "priority"],
+    "aliases": [""],
+    "description": "The Flag icon represents a flag marker, often used to indicate important items, set priorities, or draw attention to specific elements.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:38:53 PM"
+}

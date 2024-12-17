@@ -1,0 +1,10 @@
+{
+    "id": "MonitorMajor",
+    "name": "Monitor",
+    "set": "Major",
+    "keywords": ["monitor", "screen", "display", "computer", "desktop", "device", "technology"],
+    "aliases": [""],
+    "description": "The Monitor icon represents a computer screen or display device, typically used to signify technology-related features or sections, such as desktop applications, viewing platforms, or digital devices. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/26/2024, 4:23:52 PM"
+}

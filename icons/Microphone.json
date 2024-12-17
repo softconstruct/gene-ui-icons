@@ -1,0 +1,21 @@
+{
+    "id": "MicrophoneMajor",
+    "name": "Microphone",
+    "set": "Major",
+    "keywords": [
+        "microphone",
+        "audio",
+        "voice",
+        "sound",
+        "recording",
+        "speech",
+        "input",
+        "talk",
+        "music",
+        "ui element"
+    ],
+    "aliases": [""],
+    "description": "The Microphone icon represents audio input or voice recording, commonly used in applications for speech recognition, communication, or sound-related features.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/3/2024, 12:33:02 PM"
+}

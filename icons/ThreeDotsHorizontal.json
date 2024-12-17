@@ -1,0 +1,20 @@
+{
+    "id": "ThreeDotsHorizontalMajor",
+    "name": "ThreeDotsHorizontal",
+    "set": "Major",
+    "keywords": [
+        "three dots",
+        "dots",
+        "three",
+        "ellipsis",
+        "horizontal",
+        "overflow",
+        "extended",
+        "settings",
+        "more"
+    ],
+    "aliases": [""],
+    "description": "\"An icon commonly represented by three dots or an ellipsis, used to indicate the presence of additional options, settings, or actions within a user interface.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "12/3/2024, 12:26:11 PM"
+}

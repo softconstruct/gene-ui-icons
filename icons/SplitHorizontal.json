@@ -1,0 +1,10 @@
+{
+    "id": "SplitHorizontalMajor",
+    "name": "SplitHorizontal",
+    "set": "Major",
+    "keywords": ["split", "horizontal", "divide", "layout", "sections", "pane", "separation"],
+    "aliases": [""],
+    "description": "The Split Horizontal icon represents a horizontal division of content or interface into separate sections or panes. It is commonly used in layout settings, split-view screens, or tools that allow users to organize content horizontally.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/28/2024, 11:13:55 AM"
+}

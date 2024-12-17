@@ -1,0 +1,10 @@
+{
+    "id": "EqualOffMajor",
+    "name": "EqualOff",
+    "set": "Major",
+    "keywords": ["equal", "off", "disable", "inequality", "cancel", "strike-through", "comparison"],
+    "aliases": [""],
+    "description": "The Equal Off icon represents an equal sign with a strike-through or line crossing it, symbolizing inequality or the disabling of an equality condition. It is commonly used in mathematical or logical contexts to indicate that two values are not equivalent or that an equal state has been turned off.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 12:19:05 PM"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "FingerprintMajor",
+    "name": "Fingerprint",
+    "set": "Major",
+    "keywords": ["fingerprint", "identity", "biometric", "security", "login", "access"],
+    "aliases": [""],
+    "description": "The Fingerprint icon symbolizes biometric authentication or identity verification using a fingerprint scan. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "11/27/2024, 3:38:04 PM"
+}
