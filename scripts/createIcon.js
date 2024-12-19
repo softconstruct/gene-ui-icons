@@ -122,7 +122,7 @@ const askQuestions = (sourceSVGsList = []) => {
 const createSvg = async ({ name, svgSrcPath }) => {
     try {
         const svgSrcCode = await readFile(svgSrcPath, 'utf-8');
-        await appendFile(`./icons/${name}.svg`, svgSrcCode);
+        await appendFile(`./icons/${name.replace(/ /g, '')}.svg`, svgSrcCode);
     } catch (error) {
         return {
             hasError: true,
@@ -133,11 +133,12 @@ const createSvg = async ({ name, svgSrcPath }) => {
 
 const createMetadata = async ({ name, set, keywords, aliases, description, sizes }) => {
     try {
+        const fileName = name.replace(/ /g, '');
         await appendFile(
-            `./icons/${name}.json`,
+            `./icons/${fileName}.json`,
             prettier.format(
                 JSON.stringify({
-                    id: `${name}${set}`,
+                    id: `${fileName}${set}`,
                     name,
                     set,
                     keywords,
