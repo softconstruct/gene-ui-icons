@@ -1,0 +1,19 @@
+{
+    "id": "ArchiveFilledMajor",
+    "name": "ArchiveFilled",
+    "set": "Major",
+    "keywords": [
+        "\"Archive\"",
+        "\"file storage\"",
+        "\"data preservation\"",
+        "\"document retention\"",
+        "\"save\"",
+        "\"backup\"",
+        "\"filled\"",
+        "\"completed.\""
+    ],
+    "aliases": [""],
+    "description": "The filled archive icon represents a completed or active storage action, where files or documents are securely stored or archived. It is typically used to indicate that items have been successfully archived or backed up and are no longer in active use but are preserved for future reference. ",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/8/2025, 3:18:49 PM"
+}
