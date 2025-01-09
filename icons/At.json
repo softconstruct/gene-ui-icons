@@ -1,0 +1,20 @@
+{
+    "id": "AtMajor",
+    "name": "At",
+    "set": "Major",
+    "keywords": [
+        "\"at\"",
+        "\"symbol\"",
+        "\"email\"",
+        "\"address\"",
+        "\"contact\"",
+        "\"communication\"",
+        "\"handle\"",
+        "\"social\"",
+        "\"username\""
+    ],
+    "aliases": [""],
+    "description": "The At  icon represents the \\\"at\\\" symbol, commonly used in email addresses, social media handles, or contact information in applications and interfaces",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/9/2025, 2:46:21 PM"
+}

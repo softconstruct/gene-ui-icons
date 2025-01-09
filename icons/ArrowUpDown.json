@@ -1,0 +1,10 @@
+{
+    "id": "ArrowUpDownMajor",
+    "name": "ArrowUpDown",
+    "set": "Major",
+    "keywords": ["\"Sort\"", "\"arrange\"", "\"order\"", "\"up\"", "\"down\"", "\"filter"],
+    "aliases": [""],
+    "description": "The arrow sort icon indicates the action of sorting or ordering items, typically in ascending or descending order. It is used to arrange data or elements based on a selected criterion",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/9/2025, 2:45:37 PM"
+}

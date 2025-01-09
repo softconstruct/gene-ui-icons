@@ -1,0 +1,10 @@
+{
+    "id": "ArrowRightLeftMajor",
+    "name": "ArrowRightLeft",
+    "set": "Major",
+    "keywords": ["\"swap\"", "\"exchange\"", "\"transfer\"", "\"arrows\""],
+    "aliases": [""],
+    "description": "The arrowswap icon indicates an action to exchange or switch items, values, or positions. It is typically used to represent reversing the direction or swapping two elements.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/9/2025, 2:39:06 PM"
+}

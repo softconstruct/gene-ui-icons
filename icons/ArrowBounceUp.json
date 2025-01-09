@@ -1,0 +1,20 @@
+{
+    "id": "ArrowBounceUpMajor",
+    "name": "ArrowBounceUp",
+    "set": "Major",
+    "keywords": [
+        "arrow",
+        "bounce",
+        "up",
+        "\"movement\"",
+        "\"direction\"",
+        "\"return\"",
+        "\"action\"",
+        "\"graph\"",
+        "\"upward\""
+    ],
+    "aliases": [""],
+    "description": "The Arrow Bounce Up icon represents an upward movement or action, typically indicating a return to a previous position, scrolling up, or reloading content. The bouncing motion adds a sense of dynamic action, making it ideal for interactive elements in user interfaces where a visual cue for upward navigation or activity is needed.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/9/2025, 2:28:16 PM"
+}

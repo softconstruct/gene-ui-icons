@@ -1,0 +1,17 @@
+{
+    "id": "BarTripleMajor",
+    "name": "BarTriple",
+    "set": "Major",
+    "keywords": [
+        "\"bar\"",
+        "\"triple\"",
+        "\"data\"",
+        "\"graph\"",
+        "\"statistics\"",
+        "\"column triple\""
+    ],
+    "aliases": [""],
+    "description": "The Bar Triple icon represents three vertical bars, often used to indicate data, statistics, or progress in a graphical or chart-based format. It is commonly used in data visualization tools, dashboards, or UI components that display multiple values or comparisons side by side.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/9/2025, 2:47:44 PM"
+}
