@@ -28,7 +28,7 @@
     "scripts": {
         "build": "babel-node --config-file ./configs/.babelrc ./scripts/build.js",
         "create-icon": "babel-node --config-file ./configs/.babelrc ./scripts/createIcon.js",
-        "remove-icons": "babel-node --config-file ./configs/.babelrc ./scripts/removeIcon.js",
+        "remove-icons": "babel-node --config-file ./configs/.babelrc ./scripts/removeIcons.js",
         "update-icon": "",
         "mark-as-deprecated": "",
         "bump-up-commit": "babel-node --config-file ./configs/.babelrc ./scripts/postPublish.js"
