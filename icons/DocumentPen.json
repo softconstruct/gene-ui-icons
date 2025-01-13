@@ -1,0 +1,20 @@
+{
+    "id": "DocumentPenMajor",
+    "name": "DocumentPen",
+    "set": "Major",
+    "keywords": [
+        "\"document\"",
+        "\"edit\"",
+        "\"file\"",
+        "\"writing\"",
+        "\"text\"",
+        "\"pencil\"",
+        "\"modify\"",
+        "\"update\"",
+        "\"content\""
+    ],
+    "aliases": [""],
+    "description": "\"The Document Edit icon combines a document symbol with an editing tool, typically a pencil or pen, to indicate the ability to modify or update a document. It is commonly used in applications for editing text, files, or reports, representing actions such as writing, revising, or annotating content.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 1:56:46 PM"
+}

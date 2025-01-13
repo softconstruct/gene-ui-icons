@@ -1,0 +1,17 @@
+{
+    "id": "BlockedMajor",
+    "name": "Blocked",
+    "set": "Major",
+    "keywords": [
+        "\"bell\"",
+        "\"notification\"",
+        "\"alert\"",
+        "\"reminder\"",
+        "\"message\"",
+        "\"ring\""
+    ],
+    "aliases": [""],
+    "description": "The Bell icon represents notifications or alerts, commonly used to indicate new messages, reminders, or updates in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 12:22:14 PM"
+}

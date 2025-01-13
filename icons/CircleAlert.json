@@ -1,0 +1,20 @@
+{
+    "id": "CircleAlertMajor",
+    "name": "CircleAlert",
+    "set": "Major",
+    "keywords": [
+        "\"circle\"",
+        "\"alert\"",
+        "\"warning\"",
+        "\"notification\"",
+        "\"caution\"",
+        "\"message\"",
+        "\"error\"",
+        "\"attention\"",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Circle Alert icon represents an alert or notification enclosed in a circular design, commonly used to indicate warnings, errors, or important messages in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 1:08:53 PM"
+}

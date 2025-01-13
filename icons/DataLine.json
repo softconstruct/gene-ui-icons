@@ -1,0 +1,19 @@
+{
+    "id": "DataLineMajor",
+    "name": "DataLine",
+    "set": "Major",
+    "keywords": [
+        "\"data\"",
+        "\"line\"",
+        "\"graph\"",
+        "\"chart\"",
+        "\"analytics\"",
+        "\"metrics\"",
+        "\"statistics\"",
+        "\"report\""
+    ],
+    "aliases": [""],
+    "description": "The Data Line icon represents a line graph or chart, symbolizing the visualization of trends, patterns, or relationships within data sets. It is commonly used in dashboards, reporting tools, and analytical interfaces to depict continuous data changes, such as performance over time or comparative analysis.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 1:48:57 PM"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "ChevronUpDownMajor",
+    "name": "ChevronUpDown",
+    "set": "Major",
+    "keywords": [
+        "\"chevron\"",
+        "\"up and down\"",
+        "\"up\"",
+        "\"down\"",
+        "\"expand\"",
+        "\"collapse\"",
+        "\"vertical movement\""
+    ],
+    "aliases": [""],
+    "description": "The ChevronUpDown icon features two arrows pointing in opposite vertical directions, typically used to represent expandable or collapsible content. It allows users to toggle between up and down states, such as showing or hiding details, expanding or collapsing menus, or navigating through vertical sections in a UI.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 1:07:57 PM"
+}

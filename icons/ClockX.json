@@ -1,0 +1,10 @@
+{
+    "id": "ClockXMajor",
+    "name": "ClockX",
+    "set": "Major",
+    "keywords": ["\"Clock\"", "\"remove\"", "\"delete\"", "\"cancel\"", "\"time\"", "\"schedule."],
+    "aliases": [""],
+    "description": "The clock remove icon represents the action of canceling or deleting a scheduled event or time-related entry. It is often used to indicate the removal of a reminder or appointment.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/13/2025, 1:45:50 PM"
+}
