@@ -1,0 +1,17 @@
+{
+    "id": "FullScreenMinimizeMajor",
+    "name": "FullScreenMinimize",
+    "set": "Major",
+    "keywords": [
+        "\"full screen\"",
+        "\"shrink\"",
+        "\"restore\"",
+        "\"resize\"",
+        "\"collapse\"",
+        "\"exit\""
+    ],
+    "aliases": [""],
+    "description": "The Full Screen Minimize icon represents an action to exit fullscreen mode and return to the previous window size or default view.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:45:13 PM"
+}

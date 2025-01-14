@@ -1,0 +1,21 @@
+{
+    "id": "GlobeMajor",
+    "name": "Globe",
+    "set": "Major",
+    "keywords": [
+        "\"Globe\"",
+        "\"World\"",
+        "\"Earth\"",
+        "\"Global\"",
+        "\"Map\"",
+        "\"International\"",
+        "\"Location\"",
+        "\"Geography\"",
+        "\"Travel\"",
+        "\"Network\""
+    ],
+    "aliases": [""],
+    "description": "The Globe icon symbolizes the Earth, representing global reach, international access, or geographic locations. It's often used in applications related to travel, maps, or global connectivity.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:48:38 PM"
+}

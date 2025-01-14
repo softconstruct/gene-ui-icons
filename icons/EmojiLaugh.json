@@ -1,0 +1,20 @@
+{
+    "id": "EmojiLaughMajor",
+    "name": "EmojiLaugh",
+    "set": "Major",
+    "keywords": [
+        "\"emoji\"",
+        "\"laugh\"",
+        "\"laughter\"",
+        "\"joy\"",
+        "\"smile\"",
+        "\"happiness\"",
+        "\"expression\"",
+        "\"amusement\"",
+        "\"fun\""
+    ],
+    "aliases": [""],
+    "description": "The Emoji Laugh icon represents a facial expression of laughter or amusement, typically featuring a wide smile or an open mouth. It is used to convey feelings of joy, humor, or excitement in digital communication.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:28:33 PM"
+}

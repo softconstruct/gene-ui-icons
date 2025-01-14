@@ -1,0 +1,18 @@
+{
+    "id": "EraserMajor",
+    "name": "Eraser",
+    "set": "Major",
+    "keywords": [
+        "\"eraser\"",
+        "\"delete\"",
+        "\"remove\"",
+        "\"clean\"",
+        "\"clear\"",
+        "\"coreection\"",
+        "\"tool\""
+    ],
+    "aliases": [""],
+    "description": "The Eraser icon represents an erasing tool, typically used to signify actions like removing or clearing content, undoing mistakes, or resetting fields. It is commonly used in drawing applications, text editors, and other interfaces where users need to delete or modify elements.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:34:50 PM"
+}

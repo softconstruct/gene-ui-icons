@@ -1,0 +1,21 @@
+{
+    "id": "EmojiSadFilledMajor",
+    "name": "EmojiSadFilled",
+    "set": "Major",
+    "keywords": [
+        "\"emoji\"",
+        "\"sad\"",
+        "\"face\"",
+        "\"emotion\"",
+        "\"unhappy\"",
+        "\"disappointment\"",
+        "\"feeling\"",
+        "\"expression\"",
+        "\"mood\"",
+        "\"filled\""
+    ],
+    "aliases": [""],
+    "description": "The Emoji Sad Filled icon represents a filled or solid version of a sad face, typically depicted with a frown or downturned mouth, giving it a bolder and more prominent appearance. It conveys feelings of sadness, disappointment, or unhappiness with more visual emphasis.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:33:50 PM"
+}

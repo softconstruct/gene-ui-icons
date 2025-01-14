@@ -1,0 +1,21 @@
+{
+    "id": "EmojiAngryMajor",
+    "name": "EmojiAngry",
+    "set": "Major",
+    "keywords": [
+        "emoji",
+        "angry",
+        "face",
+        "emotion",
+        "frustration",
+        "annoyed",
+        "expression",
+        "mad",
+        "rage",
+        "mood"
+    ],
+    "aliases": [""],
+    "description": [" The Emoji Angry icon represents a facial expression of anger or frustration, typically depicted with furrowed brows and a frown. It is used to convey negative emotions like rage, annoyance, or displeasure. "],
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:24:14 PM"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "ExpandMajor",
+    "name": "Expand",
+    "set": "Major",
+    "keywords": [
+        "\"expand\"",
+        "\"enlarge\"",
+        "\"maximize\"",
+        "\"open\"",
+        "\"full screen\"",
+        "\"arrows\""
+    ],
+    "aliases": [""],
+    "description": "The expand icon signifies the action of enlarging or maximizing a view or element, often to full screen. It is used to indicate that content can be expanded for a larger or more detailed view.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:35:21 PM"
+}

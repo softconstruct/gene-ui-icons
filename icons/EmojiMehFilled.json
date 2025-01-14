@@ -1,0 +1,20 @@
+{
+    "id": "EmojiMehFilledMajor",
+    "name": "EmojiMehFilled",
+    "set": "Major",
+    "keywords": [
+        "\"emoji\"",
+        "\"meh\"",
+        "\"neutral\"",
+        "\"expression\"",
+        "\"face\"",
+        "\"unimpressed\"",
+        "\"mood\"",
+        "\"indifferent\"",
+        "\"filled\""
+    ],
+    "aliases": [""],
+    "description": "The Emoji Meh Filled icon represents a filled or solid version of a neutral facial expression, typically with a straight-line mouth to signify indifference or apathy. The filled design gives it a bolder more prominent appearance.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "1/14/2025, 3:32:24 PM"
+}
