@@ -1,0 +1,17 @@
+{
+    "id": "MessagesMajor",
+    "name": "Messages",
+    "set": "Major",
+    "keywords": [
+        "\"Chat\"",
+        "\"multiple\"",
+        "\"messages\"",
+        "\"conversation\"",
+        "\"communication\"",
+        "\"group."
+    ],
+    "aliases": [""],
+    "description": "The messages  icon represents group conversations or multiple chat threads, often used to indicate messaging or communication features involving more than one person or thread.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:35:19 PM"
+}

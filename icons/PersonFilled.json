@@ -1,0 +1,20 @@
+{
+    "id": "PersonFilledMajor",
+    "name": "PersonFilled",
+    "set": "Major",
+    "keywords": [
+        "\"person\"",
+        "\"filled\"",
+        "\"user\"",
+        "\"profile\"",
+        "\"individual\"",
+        "\"avatar\"",
+        "\"account\"",
+        "\"figure\"",
+        "\"icon\""
+    ],
+    "aliases": [""],
+    "description": "The Person Filled icon represents a solid design of a user or individual, commonly used to symbolize a profile, account, or user in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:44:00 PM"
+}

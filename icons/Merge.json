@@ -1,0 +1,20 @@
+{
+    "id": "MergeMajor",
+    "name": "Merge",
+    "set": "Major",
+    "keywords": [
+        "\"merge\"",
+        "\"combine\"",
+        "\"unify\"",
+        "\"join\"",
+        "\"integrate\"",
+        "\"connect\"",
+        "\"blend\"",
+        "\"consolidate\"",
+        "\"action\""
+    ],
+    "aliases": [""],
+    "description": "The Merge icon represents the action of combining or joining elements together, commonly used in applications for merging data, files, or sections.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:33:13 PM"
+}

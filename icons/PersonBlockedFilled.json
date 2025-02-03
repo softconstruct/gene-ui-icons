@@ -1,0 +1,20 @@
+{
+    "id": "PersonBlockedFilledMajor",
+    "name": "PersonBlockedFilled",
+    "set": "Major",
+    "keywords": [
+        "\"person\"",
+        "\"blocked\"",
+        "\"user\"",
+        "\"restriction\"",
+        "\"ban\"",
+        "\"prohibited\"",
+        "\"profile\"",
+        "\"stop\"",
+        "\"access\""
+    ],
+    "aliases": [""],
+    "description": "The Person Blocked Filled icon represents a solid design indicating a restricted or banned user, commonly used to symbolize blocked access or prohibited actions for a specific profile in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:43:21 PM"
+}

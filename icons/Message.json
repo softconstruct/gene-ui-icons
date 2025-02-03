@@ -1,0 +1,17 @@
+{
+    "id": "MessageMajor",
+    "name": "Message",
+    "set": "Major",
+    "keywords": [
+        "\"Chat\"",
+        "\"message\"",
+        "\"conversation\"",
+        "\"communication\"",
+        "\"talk\"",
+        "\"bubble."
+    ],
+    "aliases": [""],
+    "description": "The message  icon represents messaging or communication, typically used to signify a single conversation or the ability to send and receive messages.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:34:26 PM"
+}
