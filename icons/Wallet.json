@@ -1,0 +1,20 @@
+{
+    "id": "WalletMajor",
+    "name": "Wallet",
+    "set": "Major",
+    "keywords": [
+        "\"wallet\"",
+        "\"money\"",
+        "\"finance\"",
+        "\"payment\"",
+        "\"cash\"",
+        "\"card\"",
+        "\"currency\"",
+        "\"transaction\"",
+        "\"purse\""
+    ],
+    "aliases": [""],
+    "description": "The Wallet icon represents a financial tool for holding money or cards, commonly used to indicate payments, transactions, or financial management in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 3:17:45 PM"
+}

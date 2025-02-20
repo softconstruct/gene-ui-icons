@@ -1,0 +1,21 @@
+{
+    "id": "ThreeDotsVerticalMajor",
+    "name": "ThreeDotsVertical",
+    "set": "Major",
+    "keywords": [
+        "\"three\"",
+        "\"dots\"",
+        "\"vertical\"",
+        "\"menu\"",
+        "\"options\"",
+        "\"more\"",
+        "\"actions\"",
+        "\"overflow\"",
+        "\"navigation\"",
+        ""
+    ],
+    "aliases": [""],
+    "description": "\"The Three Dots Vertical icon represents a vertical menu or options button, commonly used to indicate additional actions or overflow menus in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 3:08:35 PM"
+}

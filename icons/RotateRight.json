@@ -1,0 +1,20 @@
+{
+    "id": "RotateRightMajor",
+    "name": "RotateRight",
+    "set": "Major",
+    "keywords": [
+        "\"rotate\"",
+        "\"right\"",
+        "\"clockwise\"",
+        "\"turn\"",
+        "\"arrow\"",
+        "\"orientation\"",
+        "\"spin\"",
+        "\"direction\"",
+        "\"adjustment\""
+    ],
+    "aliases": [""],
+    "description": "The Rotate Right icon represents a clockwise rotation action, commonly used for adjusting orientation or rotating objects in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 1:55:37 PM"
+}

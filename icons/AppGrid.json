@@ -1,0 +1,10 @@
+{
+    "id": "AppGridMajor",
+    "name": "AppGrid",
+    "set": "Major",
+    "keywords": ["\"square\"", "\"shape\"", "\"select\"", "\"frame\"", "\"border\""],
+    "aliases": [""],
+    "description": "An AppGrid icon The AppGrid icon represents a grid layout, commonly used to symbolize applications, dashboards, or categorized content sections. It helps users quickly identify app-related navigation or organization tools.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 1:27:08 PM"
+}

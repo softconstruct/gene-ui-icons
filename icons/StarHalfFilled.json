@@ -1,0 +1,22 @@
+{
+    "id": "StarHalfFilledMajor",
+    "name": "StarHalfFilled",
+    "set": "Major",
+    "keywords": [
+        "\"star\"",
+        "\"half\"",
+        "\"filled\"",
+        "\"rating\"",
+        "\"review\"",
+        "\"partial\"",
+        "\"highlight\"",
+        "\"feature\"",
+        "\"important\"",
+        "\"quality\"",
+        ""
+    ],
+    "aliases": [""],
+    "description": "The Star Half Filled icon represents a solid design of a partially filled star, commonly used to indicate half ratings or intermediate quality levels in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 3:07:02 PM"
+}

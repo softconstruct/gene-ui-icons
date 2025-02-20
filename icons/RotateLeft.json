@@ -1,0 +1,20 @@
+{
+    "id": "RotateLeftMajor",
+    "name": "RotateLeft",
+    "set": "Major",
+    "keywords": [
+        "\"rotate\"",
+        "\"left\"",
+        "\"counterclockwise\"",
+        "\"turn\"",
+        "\"arrow\"",
+        "\"orientation\"",
+        "\"spin\"",
+        "\"direction\"",
+        "\"adjustment\""
+    ],
+    "aliases": [""],
+    "description": "The Rotate Left icon represents a counterclockwise rotation action, commonly used for adjusting orientation or rotating objects in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 1:54:41 PM"
+}
