@@ -2,9 +2,17 @@
     "id": "CircleEqualMajor",
     "name": "CircleEqual",
     "set": "Major",
-    "keywords": ["circle", "equal", "balance", "equality", "sign", "math", "mathematical"],
+    "keywords": [
+        "\"circle\"",
+        "\"equal\"",
+        "\"balance\"",
+        "\"equality\"",
+        "\"sign\"",
+        "\"math\"",
+        "\"mathematical\""
+    ],
     "aliases": [""],
-    "description": "The Circle Equal icon represents an equal sign enclosed within a circle, often used to    ",
+    "description": "CircleEqual icon represents equality enclosed in a circular design, commonly used to symbolize balance, equations, or comparisons in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/27/2024, 12:16:26 PM"
+    "creation_date": "1/13/2025, 1:11:12 PM"
 }

@@ -3,18 +3,18 @@
     "name": "EmojiSad",
     "set": "Major",
     "keywords": [
-        "emoji",
-        "sad",
-        "face",
-        "emotion",
-        "unhappy",
-        "disappointment",
-        "feeling",
-        "expression",
-        "mood"
+        "\"emoji\"",
+        "\"sad\"",
+        "\"face\"",
+        "\"emotion\"",
+        "\"unhappy\"",
+        "\"disappointment\"",
+        "\"feeling\"",
+        "\"expression\"",
+        "\"mood\""
     ],
     "aliases": [""],
     "description": "The Emoji Sad icon represents a facial expression of sadness or disappointment, commonly depicted with a frown or downturned mouth. It is used to convey negative emotions or moods in digital communication.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/26/2024, 4:56:36 PM"
+    "creation_date": "1/14/2025, 3:33:14 PM"
 }

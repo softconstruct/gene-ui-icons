@@ -1,20 +1,20 @@
 {
     "id": "EmailTemplateMajor",
-    "name": "Email Template",
+    "name": "EmailTemplate",
     "set": "Major",
     "keywords": [
-        "email",
-        "template",
-        "message",
-        "communication",
-        "mail",
-        "layout",
-        "design",
-        "format",
-        "correspondence"
+        "\"email\"",
+        "\"template\"",
+        "\"message\"",
+        "\"communication\"",
+        "\"mail\"",
+        "\"layout\"",
+        "\"design\"",
+        "\"format\"",
+        "\"correspondence\""
     ],
     "aliases": [""],
     "description": "The Email Template icon represents a pre-designed email layout, commonly used to symbolize structured communication or formatted correspondence in email-related applications.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/3/2024, 12:18:00 PM"
+    "creation_date": "1/14/2025, 3:22:42 PM"
 }

@@ -3,19 +3,19 @@
     "name": "EmailTemplateFilled",
     "set": "Major",
     "keywords": [
-        "email",
-        "template",
-        "filled",
-        "message",
-        "communication",
-        "mail",
-        "layout",
-        "design",
-        "format",
-        "correspondence"
+        "\"email\"",
+        "\"template\"",
+        "\"filled\"",
+        "\"message\"",
+        "\"communication\"",
+        "\"mail\"",
+        "\"layout\"",
+        "\"design\"",
+        "\"format\"",
+        "\"correspondence\""
     ],
     "aliases": [""],
     "description": "The Email Template Filled icon represents a solid, pre-designed email layout, often used to indicate structured or formatted communication in email-related applications.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/3/2024, 12:19:39 PM"
+    "creation_date": "1/14/2025, 3:23:45 PM"
 }

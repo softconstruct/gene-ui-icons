@@ -3,18 +3,18 @@
     "name": "QuestionMark",
     "set": "Major",
     "keywords": [
-        "question",
-        "mark",
-        "help",
-        "query",
-        "support",
-        "faq",
-        "information",
-        "doubt",
-        "guidance"
+        "\"question\"",
+        "\"mark\"",
+        "\"help\"",
+        "\"query\"",
+        "\"support\"",
+        "\"faq\"",
+        "\"information\"",
+        "\"doubt\"",
+        "\"guidance\""
     ],
     "aliases": [""],
-    "description": "The Question Mark icon represents help or a query, commonly used to indicate support, FAQs, or guidance in applications and interfaces.",
+    "description": "The Question Mark icon represents help or a query, commonly used to indicate support, FAQs, or guidance in applications and interfaces",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/11/2024, 12:25:37 PM"
+    "creation_date": "2/20/2025, 1:49:56 PM"
 }

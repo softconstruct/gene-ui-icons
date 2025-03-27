@@ -3,18 +3,18 @@
     "name": "Language",
     "set": "Major",
     "keywords": [
-        "anguage",
-        "globe",
-        "translation",
-        "multilingual",
-        "international",
-        "localization",
-        "world",
-        "communication",
-        "text"
+        "language",
+        "\"globe\"",
+        "\"translation\"",
+        "\"multilingual\"",
+        "\"international\"",
+        "\"localization\"",
+        "\"world\"",
+        "\"communication\"",
+        "\"text\""
     ],
     "aliases": [""],
     "description": "The Language icon represents multilingual or global communication features, commonly used for indicating language settings or translation options in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/29/2024, 11:30:16 AM"
+    "creation_date": "2/3/2025, 3:14:26 PM"
 }

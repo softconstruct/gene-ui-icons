@@ -3,18 +3,18 @@
     "name": "Document",
     "set": "Major",
     "keywords": [
-        "document",
-        "file",
-        "paper",
-        "page",
-        "report",
-        "text",
-        "information",
-        "content",
-        "writing"
+        "\"document\"",
+        "\"file\"",
+        "\"paper\"",
+        "\"page\"",
+        "\"report\"",
+        "\"text\"",
+        "\"information\"",
+        "\"content\"",
+        "\"writing\""
     ],
     "aliases": [""],
-    "description": "The Document icon represents a piece of paper or a file, often used to signify text-based content, reports, or files within a UI. It is commonly used in applications related to file management, documentation, or content creation",
+    "description": "\"The Document icon represents a piece of paper or a file, often used to signify text-based content, reports, or files within a UI. It is commonly used in applications related to file management, documentation, or content creation\",",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/25/2024, 11:05:38 AM"
+    "creation_date": "1/13/2025, 1:55:53 PM"
 }

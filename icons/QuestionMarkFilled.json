@@ -1,0 +1,20 @@
+{
+    "id": "QuestionMarkFilledMajor",
+    "name": "QuestionMarkFilled",
+    "set": "Major",
+    "keywords": [
+        "\"question\"",
+        "\"mark\"",
+        "\"help\"",
+        "\"query\"",
+        "\"support\"",
+        "\"faq\"",
+        "\"information\"",
+        "\"doubt\"",
+        "\"guidance\"      filled"
+    ],
+    "aliases": [""],
+    "description": "The Question Mark Filled icon represents help, assistance, or additional information. It is commonly used for tooltips, support sections, and FAQs to guide users.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 1:51:20 PM"
+}

@@ -3,18 +3,18 @@
     "name": "LetterOpened",
     "set": "Major",
     "keywords": [
-        "letter",
-        "opened",
-        "mail",
-        "envelope",
-        "message",
-        "communication",
-        "email",
-        "read",
-        "correspondence"
+        "\"letter\"",
+        "\"opened\"",
+        "\"mail\"",
+        "\"envelope\"",
+        "\"message\"",
+        "\"communication\"",
+        "\"email\"",
+        "\"read\"",
+        "\"correspondence\""
     ],
     "aliases": [""],
     "description": "The Letter Opened icon represents an opened envelope, symbolizing a read message or email, commonly used in communication and email-related applications.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/3/2024, 12:34:02 PM"
+    "creation_date": "2/3/2025, 3:19:42 PM"
 }

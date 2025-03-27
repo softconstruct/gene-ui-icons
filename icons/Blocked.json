@@ -3,18 +3,15 @@
     "name": "Blocked",
     "set": "Major",
     "keywords": [
-        "blocked",
-        "restriction",
-        "ban",
-        "stop",
-        "denied",
-        "access",
-        "prohibited",
-        "blocked user",
-        "unavailable"
+        "\"bell\"",
+        "\"notification\"",
+        "\"alert\"",
+        "\"reminder\"",
+        "\"message\"",
+        "\"ring\""
     ],
     "aliases": [""],
-    "description": "The Blocked icon represents a restriction or prohibition, commonly used to indicate denied access, a blocked user, or unavailable content in applications and interfaces.",
+    "description": "The Bell icon represents notifications or alerts, commonly used to indicate new messages, reminders, or updates in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/9/2024, 1:30:23 PM"
+    "creation_date": "1/13/2025, 12:22:14 PM"
 }

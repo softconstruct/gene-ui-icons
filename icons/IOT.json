@@ -1,0 +1,20 @@
+{
+    "id": "IOTMajor",
+    "name": "IOT",
+    "set": "Major",
+    "keywords": [
+        "\"iot\"",
+        "\"internet\"",
+        "\"things\"",
+        "\"connection\"",
+        "\"network\"",
+        "\"smart\"",
+        "\"device\"",
+        "\"automation\"",
+        "\"technology\""
+    ],
+    "aliases": [""],
+    "description": "The IoT icon represents the Internet of Things, symbolizing connected devices and smart technology networks commonly used in automation and tech-related applications.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 3:10:23 PM"
+}

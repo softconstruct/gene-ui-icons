@@ -2,9 +2,18 @@
     "id": "HeaderLeftFilledMajor",
     "name": "HeaderLeftFilled",
     "set": "Major",
-    "keywords": ["header", "left", "filled", "alignment", "position", "layout", "text", "section"],
+    "keywords": [
+        "\"header\"",
+        "\"left\"",
+        "\"alignment\"",
+        "\"position\"",
+        "\"layout\"",
+        "\"navigation\"",
+        "\"text\"",
+        "\"section\""
+    ],
     "aliases": [""],
-    "description": "The Header Left Filled icon represents a solid design of left-aligned text or content within a header, commonly used in layouts to indicate a left-aligned section in pages or navigation.",
+    "description": "The Header Left icon represents text or content aligned to the left within a header, commonly used in layouts or navigation to indicate the left-aligned section of a page or header.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/9/2024, 1:24:58 PM"
+    "creation_date": "2/3/2025, 3:08:12 PM"
 }

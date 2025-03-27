@@ -3,19 +3,19 @@
     "name": "ReceiptFilled",
     "set": "Major",
     "keywords": [
-        "receipt",
-        "filled",
-        "invoice",
-        "bill",
-        "payment",
-        "transaction",
-        "document",
-        "proof",
-        "purchase",
-        "finance"
+        "\"receipt\"",
+        "\"filled\"",
+        "\"invoice\"",
+        "\"bill\"",
+        "\"payment\"",
+        "\"transaction\"",
+        "\"document\"",
+        "\"proof\"",
+        "\"purchase\"",
+        "\"finance\""
     ],
     "aliases": [""],
-    "description": "The Receipt Filled icon represents a solid design of a payment document or proof of transaction, commonly used to indicate invoices, billing, or purchase records in applications and interfaces.",
+    "description": "The Receipt Filled icon represents a solid design of a payment document or proof of transaction, commonly used to indicate invoices, billing, or purchase records in applications and interfaces",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/11/2024, 12:31:21 PM"
+    "creation_date": "2/20/2025, 1:52:38 PM"
 }

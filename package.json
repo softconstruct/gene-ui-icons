@@ -1,6 +1,6 @@
 {
     "name": "@geneui/icons",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "description": "Gene UI icons distributed as SVG React components.",
     "author": "SoftConstruct",
     "homepage": "https://github.com/softconstruct/gene-ui-icons#readme",
@@ -28,7 +28,7 @@
     "scripts": {
         "build": "babel-node --config-file ./configs/.babelrc ./scripts/build.js",
         "create-icon": "babel-node --config-file ./configs/.babelrc ./scripts/createIcon.js",
-        "remove-icon": "babel-node --config-file ./configs/.babelrc ./scripts/removeIcon.js",
+        "remove-icons": "babel-node --config-file ./configs/.babelrc ./scripts/removeIcons.js",
         "update-icon": "",
         "mark-as-deprecated": "",
         "bump-up-commit": "babel-node --config-file ./configs/.babelrc ./scripts/postPublish.js"

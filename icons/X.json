@@ -2,9 +2,18 @@
     "id": "XMajor",
     "name": "X",
     "set": "Major",
-    "keywords": ["x", "exit", "dismiss", "close", "hide", "cancel", "remove", "close window"],
+    "keywords": [
+        "\"x\"",
+        "\"exit\"",
+        "\"dismiss\"",
+        "\"close\"",
+        "\"hide\"",
+        "\"cancel\"",
+        "\"remove\"",
+        "\"close window\""
+    ],
     "aliases": [""],
     "description": "It  allows users to close or hide UI elements like modals, notifications, or alerts with a simple action, enhancing user control over content visibility.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/26/2024, 4:43:00 PM"
+    "creation_date": "2/20/2025, 3:20:06 PM"
 }

@@ -1,0 +1,20 @@
+{
+    "id": "PersonTwoFilledMajor",
+    "name": "PersonTwoFilled",
+    "set": "Major",
+    "keywords": [
+        "\"person\"",
+        "\"two\"",
+        "\"users\"",
+        "\"group\"",
+        "\"people\"",
+        "\"profile\"",
+        "\"team\"",
+        "\"duo\"",
+        "\"community\""
+    ],
+    "aliases": [""],
+    "description": "The Person Two Filled icon represents two individuals or users, commonly used to symbolize a group, duo, or team in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/20/2025, 1:28:43 PM"
+}

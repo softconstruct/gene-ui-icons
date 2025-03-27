@@ -3,19 +3,19 @@
     "name": "LetterCheckmarkFilled",
     "set": "Major",
     "keywords": [
-        "letter",
-        "checkmark",
-        "approve",
-        "validate",
-        "confirm",
-        "text",
-        "message",
-        "communication",
-        "success",
-        "filled"
+        "\"letter\"",
+        "\"checkmark\"",
+        "\"approve\"",
+        "\"validate\"",
+        "\"confirm\"",
+        "\"text\"",
+        "\"message\"",
+        "\"communication\"",
+        "\"success\"",
+        "\"filled\""
     ],
     "aliases": [""],
     "description": "The Letter Checkmark Filled icon represents a solid design indicating validation or approval of a letter or message, commonly used to symbolize successful communication or confirmed content in applications.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/3/2024, 12:24:13 PM"
+    "creation_date": "2/3/2025, 3:17:49 PM"
 }

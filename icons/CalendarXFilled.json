@@ -1,10 +1,17 @@
 {
-    "id": "CalendarRemoveFilledMajor",
-    "name": "CalendarRemoveFilled",
+    "id": "CalendarXFilledMajor",
+    "name": "CalendarXFilled",
     "set": "Major",
-    "keywords": ["Calendar", "remove", "delete", "cancel", "event", "schedule", "filled."],
+    "keywords": [
+        "\"Calendar\"",
+        "\"date\"",
+        "\"schedule\"",
+        "\"event\"",
+        "\"planner\"",
+        "\"time.\""
+    ],
     "aliases": [""],
-    "description": "The calendar remove filled icon represents a highlighted or emphasized action of deleting or canceling an event or removing an entry from a calendar or schedule.",
+    "description": "The calendar icon represents dates, scheduling, or planning, commonly used to indicate access to a schedule, event list, or date picker.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/18/2024, 12:54:37 PM"
+    "creation_date": "1/13/2025, 12:27:08 PM"
 }

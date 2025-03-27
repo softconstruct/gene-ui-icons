@@ -3,17 +3,17 @@
     "name": "EmojiMeh",
     "set": "Major",
     "keywords": [
-        "emoji",
-        "meh",
-        "neutral",
-        "expression",
-        "face",
-        "unimpressed",
-        "mood",
-        "indifferent"
+        "\"emoji\"",
+        "\"meh\"",
+        "\"neutral\"",
+        "\"expression\"",
+        "\"face\"",
+        "\"unimpressed\"",
+        "\"mood\"",
+        "\"indifferent\""
     ],
     "aliases": [""],
-    "description": "The Emoji Meh icon represents a neutral or indifferent facial expression, typically depicted with a straight-line mouth and minimal emotion. It is used to convey feelings of apathy, lack of interest, or mild dissatisfaction.",
+    "description": "The Emoji Meh icon represents a neutral or indifferent facial expression, typically depicted with a straight-line mouth and minimal emotion. It is used to convey feelings of apathy, lack of interest, or mild dissatisfaction",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/27/2024, 12:21:42 PM"
+    "creation_date": "1/14/2025, 3:30:37 PM"
 }

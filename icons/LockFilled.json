@@ -3,19 +3,19 @@
     "name": "LockFilled",
     "set": "Major",
     "keywords": [
-        "lock",
-        "filled",
-        "security",
-        "privacy",
-        "protection",
-        "safe",
-        "secure",
-        "padlock",
-        "access",
-        "restriction"
+        "\"lock\"",
+        "\"filled\"",
+        "\"security\"",
+        "\"privacy\"",
+        "\"protection\"",
+        "\"safe\"",
+        "\"secure\"",
+        "\"padlock\"",
+        "\"access\"",
+        "\"restriction\""
     ],
     "aliases": [""],
     "description": "The Lock Filled icon represents a solid, secure lock, commonly used to emphasize restricted access, private settings, or protected content in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/29/2024, 11:24:46 AM"
+    "creation_date": "2/3/2025, 4:31:02 PM"
 }

@@ -3,19 +3,24 @@
     "name": "RSSFilled",
     "set": "Major",
     "keywords": [
-        "rss",
-        "filled",
-        "feed",
-        "news",
-        "updates",
-        "subscription",
-        "podcast",
-        "broadcast",
-        "web",
-        "syndication"
+        "\"rss\"",
+        "\"filled\"",
+        "\"feed\"",
+        "\"news\"",
+        "\"updates\"",
+        "\"subscription\"",
+        "\"podcast\"",
+        "\"broadcast\"",
+        "\"web\"",
+        "\"syndication\""
     ],
-    "aliases": [""],
+    "aliases": [
+        "The RSS Filled icon represents a solid design of a web feed format",
+        "commonly used for subscribing to updates",
+        "news",
+        "or podcasts in applications and interfaces."
+    ],
     "description": "The RSS Filled icon represents a solid design of a web feed format, commonly used for subscribing to updates, news, or podcasts in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/11/2024, 12:32:52 PM"
+    "creation_date": "2/20/2025, 1:56:46 PM"
 }

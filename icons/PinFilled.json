@@ -3,19 +3,19 @@
     "name": "PinFilled",
     "set": "Major",
     "keywords": [
-        "pin",
-        "filled",
-        "location",
-        "marker",
-        "point",
-        "map",
-        "place",
-        "save",
-        "navigation",
-        "position"
+        "\"pin\"",
+        "\"filled\"",
+        "\"location\"",
+        "\"marker\"",
+        "\"point\"",
+        "\"map\"",
+        "\"place\"",
+        "\"save\"",
+        "\"navigation\"",
+        "\"position\""
     ],
     "aliases": [""],
-    "description": "The Pin Filled icon represents a solid design of a location marker, commonly used to signify a saved or marked point on a map or for navigation purposes in applications and interfaces.",
+    "description": "\"The Pin Filled icon represents a solid design of a location marker, commonly used to signify a saved or marked point on a map or for navigation purposes in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/9/2024, 1:22:18 PM"
+    "creation_date": "2/20/2025, 1:35:27 PM"
 }

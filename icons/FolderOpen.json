@@ -2,9 +2,17 @@
     "id": "FolderOpenMajor",
     "name": "FolderOpen",
     "set": "Major",
-    "keywords": ["folder", "open", "file", "document", "access", "data", "view"],
+    "keywords": [
+        "\"folder\"",
+        "\"open\"",
+        "\"file\"",
+        "\"document\"",
+        "\"access\"",
+        "\"data\"",
+        "\"view\""
+    ],
     "aliases": [""],
-    "description": "The Folder Open icon represents an open folder, typically used to indicate access to its contents or an expanded directory view. It symbolizes that files or data within the folder are available for viewing or editing. ",
+    "description": "The Folder Open icon represents an open folder, typically used to indicate access to its contents or an expanded directory view. It symbolizes that files or data within the folder are available for viewing or editing.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/27/2024, 3:30:02 PM"
+    "creation_date": "1/14/2025, 3:43:04 PM"
 }

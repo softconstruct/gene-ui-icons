@@ -2,9 +2,16 @@
     "id": "FlaskMajor",
     "name": "Flask",
     "set": "Major",
-    "keywords": ["Flask", "laboratory", "experiment", "science", "chemistry", "testing."],
+    "keywords": [
+        "\"Flask\"",
+        "\"laboratory\"",
+        "\"experiment\"",
+        "\"science\"",
+        "\"chemistry\"",
+        "\"testing.\""
+    ],
     "aliases": [""],
-    "description": " The flask icon represents scientific experimentation, testing, or research, commonly used to indicate laboratory-related activities, experimental features, or development testing environments.",
+    "description": "The flask icon represents scientific experimentation, testing, or research, commonly used to indicate laboratory-related activities, experimental features, or development testing environments.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/15/2024, 11:13:29 AM"
+    "creation_date": "1/14/2025, 3:37:22 PM"
 }

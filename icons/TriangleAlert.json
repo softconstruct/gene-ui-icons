@@ -3,18 +3,18 @@
     "name": "TriangleAlert",
     "set": "Major",
     "keywords": [
-        "triangle",
-        "alert",
-        "warning",
-        "caution",
-        "notification",
-        "error",
-        "attention",
-        "symbol",
-        "message"
+        "\"triangle\"",
+        "\"alert\"",
+        "\"warning\"",
+        "\"caution\"",
+        "\"notification\"",
+        "\"error\"",
+        "\"attention\"",
+        "\"symbol\"",
+        "\"message\""
     ],
     "aliases": [""],
     "description": "The Triangle Alert icon represents a warning or alert, commonly used to notify users of caution, errors, or important messages in applications and interfaces.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/11/2024, 12:48:46 PM"
+    "creation_date": "2/20/2025, 3:17:11 PM"
 }

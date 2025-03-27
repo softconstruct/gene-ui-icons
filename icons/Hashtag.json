@@ -3,20 +3,20 @@
     "name": "Hashtag",
     "set": "Major",
     "keywords": [
-        "hashtag",
-        "symbol",
-        "pound",
-        "tag",
-        "social media",
-        "keyword",
-        "search",
-        "trending",
-        "label",
-        "number",
+        "\"hashtag\"",
+        "\"symbol\"",
+        "\"pound\"",
+        "\"tag\"",
+        "\"social media\"",
+        "\"keyword\"",
+        "\"search\"",
+        "\"trending\"",
+        "\"label\"",
+        "\"number\"",
         ""
     ],
     "aliases": [""],
-    "description": "The Hashtag icon represents the \"#\" symbol, commonly used to label keywords, categorize content, or indicate trending topics on social media and other platforms.",
+    "description": "The Hashtag icon represents the \\\"#\\\" symbol, commonly used to label keywords, categorize content, or indicate trending topics on social media and other platforms.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "12/3/2024, 12:41:51 PM"
+    "creation_date": "1/14/2025, 3:50:39 PM"
 }

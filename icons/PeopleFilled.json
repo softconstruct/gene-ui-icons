@@ -1,0 +1,20 @@
+{
+    "id": "PeopleFilledMajor",
+    "name": "PeopleFilled",
+    "set": "Major",
+    "keywords": [
+        "\"people\"",
+        "\"group\"",
+        "\"users\"",
+        "\"community\"",
+        "\"team\"",
+        "\"crowd\"",
+        "\"profiles\"",
+        "\"network\"",
+        "\"social\""
+    ],
+    "aliases": [""],
+    "description": "The People filled  icon represents a group or community of individuals, commonly used to symbolize teams, networks, or collective users in applications and interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "2/3/2025, 4:41:30 PM"
+}

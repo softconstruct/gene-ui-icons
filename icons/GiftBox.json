@@ -3,17 +3,17 @@
     "name": "GiftBox",
     "set": "Major",
     "keywords": [
-        "gift",
-        "box",
-        "present",
-        "package",
-        "surprise",
-        "celebation",
-        "promotion",
-        "event"
+        "\"gift\"",
+        "\"box\"",
+        "\"present\"",
+        "\"package\"",
+        "\"surprise\"",
+        "\"celebation\"",
+        "\"promotion\"",
+        "\"event\""
     ],
     "aliases": [""],
     "description": "The Gift Box icon represents a boxed gift, typically used to symbolize presents, rewards, or celebrations. It is commonly found in e-commerce platforms, promotional campaigns, and event-based interfaces to indicate special offers, giveaways, or festive occasions.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "11/28/2024, 2:18:06 PM"
+    "creation_date": "1/14/2025, 3:47:00 PM"
 }
