@@ -2,6 +2,7 @@
     "id": "GlobeMajor",
     "name": "Globe",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Globe\"",
         "\"World\"",

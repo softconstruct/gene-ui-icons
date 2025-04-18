@@ -2,6 +2,7 @@
     "id": "HeartMajor",
     "name": "HeartFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": ["heart", "filled", "like", "love", "favourite", "support", "emotion", "care"],
     "aliases": [""],
     "description": "The Heart Filled icon represents a bold, solid heart shape, emphasizing love, affection, or favoritism. It is commonly used in applications to indicate that something has been liked, saved, or marked as a favorite",

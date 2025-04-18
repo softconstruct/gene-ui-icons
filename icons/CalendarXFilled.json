@@ -2,6 +2,7 @@
     "id": "CalendarXFilledMajor",
     "name": "CalendarXFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"Calendar\"",
         "\"date\"",

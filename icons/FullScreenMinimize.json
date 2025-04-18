@@ -2,6 +2,7 @@
     "id": "FullScreenMinimizeMajor",
     "name": "FullScreenMinimize",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"full screen\"",
         "\"shrink\"",

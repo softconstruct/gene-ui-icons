@@ -2,6 +2,7 @@
     "id": "MonitorMajor",
     "name": "Monitor",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"monitor\"",
         "\"screen\"",

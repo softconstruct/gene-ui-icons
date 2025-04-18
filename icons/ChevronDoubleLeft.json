@@ -2,6 +2,7 @@
     "id": "ChevronDoubleLeftMajor",
     "name": "ChevronDoubleLeft",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["Chevron", "double left", "navigation", "backward", "previous", "rewind"],
     "aliases": [""],
     "description": "The chevron double left icon represents a faster navigation or movement to the left, typically used to indicate going back multiple steps, accessing the previous section, or rewinding in a sequence.",

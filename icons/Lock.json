@@ -2,6 +2,7 @@
     "id": "LockMajor",
     "name": "Lock",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"lock\"",
         "\"security\"",

@@ -2,6 +2,7 @@
     "id": "WarningOutlineMajor",
     "name": "WarningOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "danger",
         "alert",

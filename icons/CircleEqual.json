@@ -2,6 +2,7 @@
     "id": "CircleEqualMajor",
     "name": "CircleEqual",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"circle\"",
         "\"equal\"",

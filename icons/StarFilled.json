@@ -2,6 +2,7 @@
     "id": "StarFilledMajor",
     "name": "StarFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"star\"",
         "\"filled\"",

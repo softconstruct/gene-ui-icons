@@ -2,6 +2,7 @@
     "id": "CircleOffMajor",
     "name": "CircleOff",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"circle\"",
         "\"off\"",

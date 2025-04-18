@@ -2,6 +2,7 @@
     "id": "FolderOpenMajor",
     "name": "FolderOpen",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"folder\"",
         "\"open\"",

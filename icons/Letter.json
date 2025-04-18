@@ -2,6 +2,7 @@
     "id": "LetterMajor",
     "name": "Letter",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"letter\"",
         "\"text\"",

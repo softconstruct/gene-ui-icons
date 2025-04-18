@@ -2,6 +2,7 @@
     "id": "CalculatorMajor",
     "name": "Calculator",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "calculator",
         "math",

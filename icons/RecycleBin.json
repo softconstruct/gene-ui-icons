@@ -2,8 +2,9 @@
     "id": "RecycleBinMajor",
     "name": "RecycleBin",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
-        "ywords\": [        \"recycle bin\"",
+        "\"recycle bin\"",
         "\"delete\"",
         "\"remove\"",
         "\"garbage\"",

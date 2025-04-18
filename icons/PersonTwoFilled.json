@@ -2,6 +2,7 @@
     "id": "PersonTwoFilledMajor",
     "name": "PersonTwoFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"person\"",
         "\"two\"",

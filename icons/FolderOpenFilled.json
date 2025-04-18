@@ -2,6 +2,7 @@
     "id": "FolderOpenFilledMajor",
     "name": "FolderOpenFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"folder\"",
         "\"open\"",

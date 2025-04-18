@@ -1,0 +1,11 @@
+{
+    "id": "WandMajor",
+    "name": "Wand",
+    "set": "Major",
+    "type": "Outline",
+    "keywords": ["magic-wand", "sparkle-wand", "wand-sparkles"],
+    "aliases": [""],
+    "description": "Represents an action that triggers an automated process or a sequence of operations",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "3/13/2025, 5:13:54 PM"
+}

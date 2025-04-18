@@ -2,6 +2,7 @@
     "id": "LetterCheckmarkFilledMajor",
     "name": "LetterCheckmarkFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"letter\"",
         "\"checkmark\"",

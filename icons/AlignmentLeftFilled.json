@@ -2,6 +2,7 @@
     "id": "AlignmentLeftFilledMajor",
     "name": "AlignmentLeftFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "align left filled",
         "left alignment filled",

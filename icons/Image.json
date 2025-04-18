@@ -2,6 +2,7 @@
     "id": "ImageMajor",
     "name": "Image",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Image\"",
         "\"Picture\"",

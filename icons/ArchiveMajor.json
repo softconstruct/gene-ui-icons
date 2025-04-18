@@ -2,6 +2,7 @@
     "id": "ArchiveMajorMajor",
     "name": "ArchiveMajor",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "Archive\"",
         "\"file storage\"",

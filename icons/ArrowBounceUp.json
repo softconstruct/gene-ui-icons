@@ -2,6 +2,7 @@
     "id": "ArrowBounceUpMajor",
     "name": "ArrowBounceUp",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "arrow",
         "bounce",

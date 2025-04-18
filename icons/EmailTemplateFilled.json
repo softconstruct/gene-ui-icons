@@ -2,6 +2,7 @@
     "id": "EmailTemplateFilledMajor",
     "name": "EmailTemplateFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"email\"",
         "\"template\"",

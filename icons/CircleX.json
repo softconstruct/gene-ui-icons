@@ -2,6 +2,7 @@
     "id": "CircleXMajor",
     "name": "CircleX",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["Circle", "x", "close", "cancel", "error", "remove", "reject", "clear", "delete"],
     "aliases": [""],
     "description": "The CircleX icon represents a circle with an \"X\" inside, commonly used to indicate the action of closing, canceling, or rejecting an operation. It is often used in error messages, pop-ups, or UI elements to allow users to dismiss or remove items. The circular design gives the icon a clean, universally recognized appearance for negative or closing actions.",

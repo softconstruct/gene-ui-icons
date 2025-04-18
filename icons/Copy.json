@@ -2,6 +2,7 @@
     "id": "CopyMajor",
     "name": "Copy",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "copy",
         "duplicate",

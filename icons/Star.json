@@ -2,6 +2,7 @@
     "id": "StarMajor",
     "name": "Star",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"star\"",
         "\"favorite\"",

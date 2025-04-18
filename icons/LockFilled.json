@@ -2,6 +2,7 @@
     "id": "LockFilledMajor",
     "name": "LockFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"lock\"",
         "\"filled\"",

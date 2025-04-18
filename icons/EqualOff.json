@@ -2,6 +2,7 @@
     "id": "EqualOffMajor",
     "name": "EqualOff",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"equal\"",
         "\"off\"",

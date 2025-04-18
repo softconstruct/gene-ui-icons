@@ -2,6 +2,7 @@
     "id": "PuzzleMajor",
     "name": "Puzzle",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"puzzle\"",
         "\"piece\"",

@@ -2,6 +2,7 @@
     "id": "GripDotsMajor",
     "name": "GripDots",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"grip\"",
         "\"dots\"",

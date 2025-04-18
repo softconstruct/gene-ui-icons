@@ -2,6 +2,7 @@
     "id": "JoystickMajor",
     "name": "Joystick",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"joystick\"",
         "\"Game\"",

@@ -2,6 +2,7 @@
     "id": "CaretRightFilledMajor",
     "name": "CaretRightFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": ["Caret", "right", "filled", "arrow", "navigation", "forward", "next"],
     "aliases": [
         "The caret right filled icon indicates navigation or movement to the right",

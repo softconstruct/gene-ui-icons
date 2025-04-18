@@ -2,6 +2,7 @@
     "id": "BookmarkFilledMajor",
     "name": "BookmarkFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "bookmark filled",
         "saved",

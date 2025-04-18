@@ -2,6 +2,7 @@
     "id": "CircleEqualFilledMajor",
     "name": "CircleEqualFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"circle\"",
         "\"equal\"",

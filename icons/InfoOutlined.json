@@ -2,6 +2,7 @@
     "id": "InfoOutlineMajor",
     "name": "InfoOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "information",
         "informative",

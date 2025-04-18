@@ -2,6 +2,7 @@
     "id": "SuccessFillMajor",
     "name": "SuccessFill",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "success",
         "checkmark",

@@ -2,6 +2,7 @@
     "id": "ChevronDownMajor",
     "name": "ChevronDown",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "chevron",
         "expand",

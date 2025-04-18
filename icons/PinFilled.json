@@ -2,6 +2,7 @@
     "id": "PinFilledMajor",
     "name": "PinFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"pin\"",
         "\"filled\"",

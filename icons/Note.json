@@ -2,6 +2,7 @@
     "id": "NoteMajor",
     "name": "Note",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"note\"",
         "\"message\"",

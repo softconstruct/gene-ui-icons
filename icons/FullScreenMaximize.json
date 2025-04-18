@@ -2,6 +2,7 @@
     "id": "FullScreenMaximizeMajor",
     "name": "FullScreenMaximize",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"full screen\"",
         "\"maximize\"",

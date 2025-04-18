@@ -2,6 +2,7 @@
     "id": "DotMajor",
     "name": "Dot",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "dot",
         "indicator",

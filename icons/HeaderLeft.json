@@ -2,6 +2,7 @@
     "id": "HeaderLeftMajor",
     "name": "HeaderLeft",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"header\"",
         "\"left\"",

@@ -2,6 +2,7 @@
     "id": "CurrencyGlobalMajor",
     "name": "CurrencyGlobal",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"currency\"",
         "\"global\"",

@@ -2,6 +2,7 @@
     "id": "AlignmentCenterFilledMajor",
     "name": "AlignmentCenterFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "align center filled",
         "filled center align",

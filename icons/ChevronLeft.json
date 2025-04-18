@@ -2,6 +2,7 @@
     "id": "ChevronLeftMajor",
     "name": "ChevronLeft",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "left",
         "chevron",

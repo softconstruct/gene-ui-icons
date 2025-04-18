@@ -2,6 +2,7 @@
     "id": "DataTrendingMajor",
     "name": "DataTrending",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"data\"",
         "\"trending\"",

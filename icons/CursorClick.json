@@ -2,6 +2,7 @@
     "id": "CursorClickMajor",
     "name": "CursorClick",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "cursor",
         "click",

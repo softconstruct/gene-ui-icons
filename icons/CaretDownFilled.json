@@ -2,6 +2,7 @@
     "id": "CaretDownMajor",
     "name": "CaretDownFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": ["caret", "down", "filled", "dropdown", "expand", "open", "triangle", "unfold", "reveal"],
     "aliases": [""],
     "description": "A downward-pointing filled caret icon commonly used to indicate a dropdown menu, expandable content, or additional options. It serves as a visual cue for users to click and reveal hidden content or navigate to submenus. Often found in forms, navigation bars, and selection lists.",

@@ -2,6 +2,7 @@
     "id": "AlignmentTopMajor",
     "name": "AlignmentTop",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "align top",
         "top alignment",

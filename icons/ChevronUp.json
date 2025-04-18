@@ -2,6 +2,7 @@
     "id": "ChevronUpMajor",
     "name": "ChevronUp",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "collapse",
         "chevron",

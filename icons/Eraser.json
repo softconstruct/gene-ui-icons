@@ -2,6 +2,7 @@
     "id": "EraserMajor",
     "name": "Eraser",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"eraser\"",
         "\"delete\"",

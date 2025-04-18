@@ -2,6 +2,7 @@
     "id": "EmailTemplateMajor",
     "name": "EmailTemplate",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"email\"",
         "\"template\"",

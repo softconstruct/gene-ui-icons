@@ -2,6 +2,7 @@
     "id": "LockOpenMajor",
     "name": "LockOpen",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"lock\"",
         "\"open\"",

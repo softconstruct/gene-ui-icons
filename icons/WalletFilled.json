@@ -2,6 +2,7 @@
     "id": "WalletFilledMajor",
     "name": "WalletFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"wallet\"",
         "\"filled\"",

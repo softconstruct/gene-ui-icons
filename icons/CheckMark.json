@@ -2,6 +2,7 @@
     "id": "CheckMajor",
     "name": "CheckMark",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["checkmark", "selected", "check", "tick", "valid", "accept", "success", "complete", "verified"],
     "aliases": [""],
     "description": "A check mark icon commonly used to indicate confirmation, approval, or successful completion of an action. It signifies that something is correct, validated, or selected. Often found in forms, checkboxes, lists, and status indicators.",

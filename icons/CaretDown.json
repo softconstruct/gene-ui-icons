@@ -2,6 +2,7 @@
     "id": "CaretDownMajor",
     "name": "CaretDown",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "dropdown",
         "expand",

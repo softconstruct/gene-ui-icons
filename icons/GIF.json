@@ -2,6 +2,7 @@
     "id": "GIFMajor",
     "name": "GIF",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"GIF\"",
         "\"Animation\"",

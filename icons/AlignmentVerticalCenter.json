@@ -2,6 +2,7 @@
     "id": "AlignmentCenterMajor",
     "name": "AlignmentCenter",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "align center",
         "center layout",

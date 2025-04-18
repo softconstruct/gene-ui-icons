@@ -2,6 +2,7 @@
     "id": "PinMajor",
     "name": "Pin",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"pin\"",
         "\"location\"",

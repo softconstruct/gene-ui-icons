@@ -2,6 +2,7 @@
     "id": "ClockMajor",
     "name": "Clock",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "clock",
         "time",

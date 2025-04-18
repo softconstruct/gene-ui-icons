@@ -2,6 +2,7 @@
     "id": "DataBarMajor",
     "name": "DataBar",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"data\"",
         "\"bar\"",

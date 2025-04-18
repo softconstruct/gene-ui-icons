@@ -2,6 +2,7 @@
     "id": "PeopleFilledMajor",
     "name": "PeopleFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"people\"",
         "\"group\"",

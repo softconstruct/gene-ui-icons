@@ -2,6 +2,7 @@
     "id": "FolderMajor",
     "name": "Folder",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"folder\"",
         "\"file\"",

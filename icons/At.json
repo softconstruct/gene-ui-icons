@@ -2,6 +2,7 @@
     "id": "AtMajor",
     "name": "At",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"at\"",
         "\"symbol\"",
