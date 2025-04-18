@@ -56,6 +56,17 @@ const askQuestions = (sourceSVGsList = []) => {
             }
         },
         {
+            name: 'type',
+            type: 'list',
+            prefix: '[?]',
+            message: 'Choose an Icon type: ',
+            choices: ['Outline', 'Filled'],
+            filter: (value) => {
+                newIcon.type = value;
+                return value;
+            }
+        },
+        {
             name: 'name',
             type: 'input',
             message: 'Please enter the Icon name: ',
@@ -131,7 +142,7 @@ const createSvg = async ({ name, svgSrcPath }) => {
     }
 };
 
-const createMetadata = async ({ name, set, keywords, aliases, description, sizes }) => {
+const createMetadata = async ({ name, set, type, keywords, aliases, description, sizes }) => {
     try {
         const fileName = name.replace(/ /g, '');
         await appendFile(
@@ -141,6 +152,7 @@ const createMetadata = async ({ name, set, keywords, aliases, description, sizes
                     id: `${fileName}${set}`,
                     name,
                     set,
+                    type,
                     keywords,
                     aliases,
                     description,
