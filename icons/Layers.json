@@ -2,6 +2,7 @@
     "id": "LayersMajor",
     "name": "Layers",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"layers\"",
         "\"stack\"",

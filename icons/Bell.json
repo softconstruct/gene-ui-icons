@@ -2,6 +2,7 @@
     "id": "BellMajor",
     "name": "Bell",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"bell\"",
         "\"notification\"",

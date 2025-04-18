@@ -2,6 +2,7 @@
     "id": "WindowsNewMajor",
     "name": "WindowsNew",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"new window\"",
         "\"window\"",

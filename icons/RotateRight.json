@@ -2,6 +2,7 @@
     "id": "RotateRightMajor",
     "name": "RotateRight",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"rotate\"",
         "\"right\"",

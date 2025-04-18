@@ -2,6 +2,7 @@
     "id": "PersonBlockedFilledMajor",
     "name": "PersonBlockedFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"person\"",
         "\"blocked\"",

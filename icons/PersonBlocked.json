@@ -2,6 +2,7 @@
     "id": "PersonBlockedMajor",
     "name": "PersonBlocked",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"person\"",
         "\"blocked\"",

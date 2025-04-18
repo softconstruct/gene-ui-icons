@@ -2,6 +2,7 @@
     "id": "DownloadMajor",
     "name": "Download",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"download\"",
         "\"arrow\"",

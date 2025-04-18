@@ -2,6 +2,7 @@
     "id": "MoleculeMajor",
     "name": "Molecule",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"molecule\"",
         "\"atom\"",

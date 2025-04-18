@@ -2,6 +2,7 @@
     "id": "PersonPlusMajor",
     "name": "PersonPlus",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"person\"",
         "\"plus\"",

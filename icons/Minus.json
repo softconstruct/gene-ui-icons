@@ -2,6 +2,7 @@
     "id": "MinusOutlineMajor",
     "name": "MinusOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "subtract",
         "remove",

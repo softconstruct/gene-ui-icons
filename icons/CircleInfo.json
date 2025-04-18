@@ -2,6 +2,7 @@
     "id": "CircleInfoMajor",
     "name": "CircleInfo",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["circle",
         "info",
         "information",

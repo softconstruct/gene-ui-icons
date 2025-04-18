@@ -2,6 +2,7 @@
     "id": "BookmarkMajor",
     "name": "Bookmark",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["bookmark", "save", "mark", "flag", "highlight", "favorite", "ribbon"],
     "aliases": [""],
     "description": "A bookmark icon symbolizes saving or marking content for quick access later. Typically designed as a simple ribbon or flag shape, it represents the act of highlighting items to revisit.",

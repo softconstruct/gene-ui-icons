@@ -2,6 +2,7 @@
     "id": "ArrowMaximizeVerticalMajor",
     "name": "ArrowMaximizeVertical",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["Maximize", "vertical expand", "enlarge", "resize", "arrows", "up", "down."],
     "aliases": [""],
     "description": "The arrow maximize vertical icon represents the action of expanding or resizing content vertically, often to fit the full height of a screen or container.",

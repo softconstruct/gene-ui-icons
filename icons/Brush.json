@@ -2,6 +2,7 @@
     "id": "BrushMajor",
     "name": "Brush",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"brush\"",
         "\"paint\"",

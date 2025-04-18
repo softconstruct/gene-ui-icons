@@ -2,6 +2,7 @@
     "id": "ReceiptMajor",
     "name": "Receipt",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"receipt\"",
         "\"invoice\"",

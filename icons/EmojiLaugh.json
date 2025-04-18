@@ -2,6 +2,7 @@
     "id": "EmojiLaughMajor",
     "name": "EmojiLaugh",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"emoji\"",
         "\"laugh\"",

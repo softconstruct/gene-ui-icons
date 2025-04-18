@@ -2,6 +2,7 @@
     "id": "TriangleAlertMajor",
     "name": "TriangleAlert",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"triangle\"",
         "\"alert\"",

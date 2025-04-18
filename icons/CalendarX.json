@@ -2,6 +2,7 @@
     "id": "CalendarRemoveMajor",
     "name": "CalendarRemove",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["Calendar", "remove", "delete", "cancel", "event", "schedule"],
     "aliases": [""],
     "description": "The calendar remove icon represents the action of deleting or canceling an event or removing an entry from a calendar or schedule.",

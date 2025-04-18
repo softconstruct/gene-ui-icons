@@ -2,6 +2,7 @@
     "id": "RSSFilledMajor",
     "name": "RSSFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"rss\"",
         "\"filled\"",

@@ -2,6 +2,7 @@
     "id": "CubeFilledMajor",
     "name": "CubeFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "3D",
         "filled",

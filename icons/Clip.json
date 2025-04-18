@@ -2,6 +2,7 @@
     "id": "ClipMajor",
     "name": "Clip",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Attachment\"",
         "\"file\"",

@@ -2,6 +2,7 @@
     "id": "AlignmentTopFilledMajor",
     "name": "AlignmentTopFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "align top filled",
         "top alignment filled",

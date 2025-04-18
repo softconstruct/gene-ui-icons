@@ -2,6 +2,7 @@
     "id": "NoteMusicalMajor",
     "name": "NoteMusical",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"note\"",
         "\"musical\"",

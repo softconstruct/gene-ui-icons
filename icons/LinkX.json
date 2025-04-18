@@ -2,6 +2,7 @@
     "id": "LinkXMajor",
     "name": "LinkX",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"link\"",
         "\"remove\"",

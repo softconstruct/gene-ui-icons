@@ -2,6 +2,7 @@
     "id": "CubeMajor",
     "name": "Cube",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "3D",
         "structure",

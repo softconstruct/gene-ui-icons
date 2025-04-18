@@ -2,6 +2,7 @@
     "id": "LetterChecmarkMajor",
     "name": "LetterChecmark",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"letter\"",
         "\"checkmark\"",

@@ -2,6 +2,7 @@
     "id": "LightBulbMajor",
     "name": "LightBulbFill",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "bulb",
         "light",

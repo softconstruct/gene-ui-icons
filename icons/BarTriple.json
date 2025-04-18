@@ -2,6 +2,7 @@
     "id": "BarTripleMajor",
     "name": "BarTriple",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"bar\"",
         "\"triple\"",

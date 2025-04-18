@@ -2,6 +2,7 @@
     "id": "SplitHorizontalMajor",
     "name": "SplitHorizontal",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"split\"",
         "\"horizontal\"",

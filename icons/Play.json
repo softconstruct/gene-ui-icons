@@ -2,6 +2,7 @@
     "id": "PlayMajor",
     "name": "Play",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"play\"",
         "\"start\"",

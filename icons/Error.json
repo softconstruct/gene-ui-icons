@@ -2,6 +2,7 @@
     "id": "ErrorAlertFillMajor",
     "name": "ErrorAlertFill",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "error",
         "status",

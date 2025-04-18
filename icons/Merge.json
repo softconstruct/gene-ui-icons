@@ -2,6 +2,7 @@
     "id": "MergeMajor",
     "name": "Merge",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"merge\"",
         "\"combine\"",

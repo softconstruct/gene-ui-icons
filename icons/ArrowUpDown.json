@@ -2,6 +2,7 @@
     "id": "ArrowUpDownMajor",
     "name": "ArrowUpDown",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["\"Sort\"", "\"arrange\"", "\"order\"", "\"up\"", "\"down\"", "\"filter"],
     "aliases": [""],
     "description": "The arrow sort icon indicates the action of sorting or ordering items, typically in ascending or descending order. It is used to arrange data or elements based on a selected criterion",

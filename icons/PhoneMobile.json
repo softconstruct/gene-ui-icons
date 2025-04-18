@@ -2,6 +2,7 @@
     "id": "PhoneMobileMajor",
     "name": "PhoneMobile",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"mobile\"",
         "\"phone\"",

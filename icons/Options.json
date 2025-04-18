@@ -2,6 +2,7 @@
     "id": "OptionsMajor",
     "name": "Options",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"options\"",
         "\"menu\"",

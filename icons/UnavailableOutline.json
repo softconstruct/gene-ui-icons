@@ -2,6 +2,7 @@
     "id": "UnavailableOutlineMajor",
     "name": "UnavailableOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "unavailable",
         "satus",

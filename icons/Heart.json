@@ -2,6 +2,7 @@
     "id": "HeartMajor",
     "name": "Heart",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["heart", "like", "love", "favourite", "support", "emotion", "care"],
     "aliases": [""],
     "description": "The Heart icon symbolizes love, affection, or favoritism. It is commonly used in applications to indicate liking, saving, or marking something as a favorite.",

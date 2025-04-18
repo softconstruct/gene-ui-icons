@@ -2,6 +2,7 @@
     "id": "AlignmentLeftMajor",
     "name": "AlignmentLeft",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "align left",
         "left alignment",

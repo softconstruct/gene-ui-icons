@@ -2,6 +2,7 @@
     "id": "CaretLeftMajor",
     "name": "CaretLeft",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["Caret", "left", "arrow", "navigation", "back", "previous", ""],
     "aliases": [""],
     "description": "The caret left icon represents navigation or movement to the left, typically used to indicate going back, accessing the previous item, or collapsing a section.",

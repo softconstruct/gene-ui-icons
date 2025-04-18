@@ -2,6 +2,7 @@
     "id": "ChevronUpDownMajor",
     "name": "ChevronUpDown",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"chevron\"",
         "\"up and down\"",

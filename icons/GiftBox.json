@@ -2,6 +2,7 @@
     "id": "GiftBoxMajor",
     "name": "GiftBox",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"gift\"",
         "\"box\"",

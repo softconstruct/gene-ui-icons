@@ -2,6 +2,7 @@
     "id": "ErrorAlertOutlineMajor",
     "name": "ErrorAlertOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "error",
         "outline",

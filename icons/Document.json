@@ -2,6 +2,7 @@
     "id": "DocumentMajor",
     "name": "Document",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"document\"",
         "\"file\"",

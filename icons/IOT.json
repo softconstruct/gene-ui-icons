@@ -2,6 +2,7 @@
     "id": "IOTMajor",
     "name": "IOT",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"iot\"",
         "\"internet\"",

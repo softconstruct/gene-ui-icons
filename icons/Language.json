@@ -2,6 +2,7 @@
     "id": "LanguageMajor",
     "name": "Language",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "language",
         "\"globe\"",

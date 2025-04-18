@@ -2,6 +2,7 @@
     "id": "LinkMajor",
     "name": "Link",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"link\"",
         "\"chain\"",

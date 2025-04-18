@@ -2,6 +2,7 @@
     "id": "DataLineMajor",
     "name": "DataLine",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"data\"",
         "\"line\"",

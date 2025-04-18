@@ -2,6 +2,7 @@
     "id": "ColorPaletteMajor",
     "name": "ColorPalette",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Color\"",
         "\"palette\"",

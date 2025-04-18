@@ -2,6 +2,7 @@
     "id": "MessageMajor",
     "name": "Message",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Chat\"",
         "\"message\"",

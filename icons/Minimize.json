@@ -2,6 +2,7 @@
     "id": "MinimizeMajor",
     "name": "Minimize",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"minimize\"",
         "\"collapse\"",

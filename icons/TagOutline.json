@@ -2,6 +2,7 @@
     "id": "TagOutlineMajor",
     "name": "TagOutline",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "bookmark",
         "flag",

@@ -2,6 +2,7 @@
     "id": "EmojiSadFilledMajor",
     "name": "EmojiSadFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"emoji\"",
         "\"sad\"",

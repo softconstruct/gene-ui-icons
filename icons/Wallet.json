@@ -2,6 +2,7 @@
     "id": "WalletMajor",
     "name": "Wallet",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"wallet\"",
         "\"money\"",

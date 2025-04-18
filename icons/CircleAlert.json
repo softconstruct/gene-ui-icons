@@ -2,6 +2,7 @@
     "id": "CircleAlertMajor",
     "name": "CircleAlert",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"circle\"",
         "\"alert\"",

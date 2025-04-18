@@ -2,6 +2,7 @@
     "id": "HashtagMajor",
     "name": "Hashtag",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"hashtag\"",
         "\"symbol\"",

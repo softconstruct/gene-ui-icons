@@ -2,6 +2,7 @@
     "id": "ArrowDownMajor",
     "name": "ArrowDown",
     "set": "Major",
+    "type": "Outline",
     "keywords": ["arrow down", "direction down", "downward", "navigate down", "move down"],
     "aliases": [""],
     "description": "This icon represents a Downward Arrow, commonly used to indicate downward navigation, download actions, or moving an element down.",

@@ -2,6 +2,7 @@
     "id": "FolderFilledMajor",
     "name": "FolderFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "\"folder\"",
         "\"file\"",

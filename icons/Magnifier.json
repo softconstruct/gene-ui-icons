@@ -2,6 +2,7 @@
     "id": "SearchMajor",
     "name": "Search",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "search",
         "magnifier",

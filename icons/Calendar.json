@@ -2,6 +2,7 @@
     "id": "CalendarMajor",
     "name": "Calendar",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"Calendar\"",
         "\"date\"",

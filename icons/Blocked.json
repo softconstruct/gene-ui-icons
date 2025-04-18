@@ -2,6 +2,7 @@
     "id": "BlockedMajor",
     "name": "Blocked",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"bell\"",
         "\"notification\"",

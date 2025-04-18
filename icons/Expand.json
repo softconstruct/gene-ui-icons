@@ -2,6 +2,7 @@
     "id": "ExpandMajor",
     "name": "Expand",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"expand\"",
         "\"enlarge\"",

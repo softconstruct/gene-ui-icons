@@ -2,6 +2,7 @@
     "id": "CircleMajor",
     "name": "Circle",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "status",
         "circle",

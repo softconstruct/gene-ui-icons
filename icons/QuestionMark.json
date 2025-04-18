@@ -2,6 +2,7 @@
     "id": "QuestionMarkMajor",
     "name": "QuestionMark",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"question\"",
         "\"mark\"",

@@ -2,6 +2,7 @@
     "id": "ActivityRecentMajor",
     "name": "ActivityRecent",
     "set": "Major",
+    "type": "Outline",
     "keywords": [
         "\"activity\"",
         "\"recent\"",

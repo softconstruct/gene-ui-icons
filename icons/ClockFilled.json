@@ -2,6 +2,7 @@
     "id": "ClockFilledMajor",
     "name": "ClockFilled",
     "set": "Major",
+    "type": "Filled",
     "keywords": [
         "clock",
         "time",
