@@ -1,8 +1,8 @@
 {
     "id": "FlagMajor",
     "name": "Flag",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"flag\"",
         "\"marker\"",

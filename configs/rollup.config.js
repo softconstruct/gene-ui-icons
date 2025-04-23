@@ -47,6 +47,7 @@ const metadataTypes = `export interface Icon {
     id: string;
     name: string;
     set: 'major' | 'minor';
+    type: 'filled' | 'outline';
     description: string;
     keywords: string[];
     aliases: string[];

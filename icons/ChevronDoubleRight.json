@@ -1,8 +1,8 @@
 {
     "id": "ChevronDoubleRightMajor",
     "name": "ChevronDoubleRight",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["Chevron", "double right", "navigation", "forward", "next", "fast forward."],
     "aliases": [""],
     "description": "The chevron double right icon represents quick navigation or movement to the right, typically used to indicate advancing multiple steps, accessing the next section, or fast-forwarding in a sequence.",

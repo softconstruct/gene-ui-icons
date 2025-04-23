@@ -1,8 +1,8 @@
 {
     "id": "SuccessOutlineMajor",
     "name": "SuccessOutline",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "success",
         "checkmark",

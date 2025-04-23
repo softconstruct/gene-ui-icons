@@ -1,8 +1,8 @@
 {
     "id": "MonitorMajor",
     "name": "Monitor",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"monitor\"",
         "\"screen\"",

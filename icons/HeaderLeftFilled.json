@@ -1,8 +1,8 @@
 {
     "id": "HeaderLeftFilledMajor",
     "name": "HeaderLeftFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"header\"",
         "\"left\"",

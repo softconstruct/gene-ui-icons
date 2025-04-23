@@ -1,8 +1,8 @@
 {
-    "id": "AlignmentCenterMajor",
-    "name": "AlignmentCenter",
-    "set": "Major",
-    "type": "Outline",
+    "id": "AlignmentVerticalCenterMajor",
+    "name": "AlignmentVerticalCenter",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "align center",
         "center layout",

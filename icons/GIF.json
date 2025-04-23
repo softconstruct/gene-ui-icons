@@ -1,8 +1,8 @@
 {
     "id": "GIFMajor",
     "name": "GIF",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"GIF\"",
         "\"Animation\"",

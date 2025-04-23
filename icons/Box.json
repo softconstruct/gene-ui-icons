@@ -1,8 +1,8 @@
 {
     "id": "CubeMajor",
     "name": "Cube",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "3D",
         "structure",

@@ -1,8 +1,8 @@
 {
     "id": "StarFilledMajor",
     "name": "StarFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"star\"",
         "\"filled\"",

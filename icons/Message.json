@@ -1,8 +1,8 @@
 {
     "id": "MessageMajor",
     "name": "Message",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"Chat\"",
         "\"message\"",

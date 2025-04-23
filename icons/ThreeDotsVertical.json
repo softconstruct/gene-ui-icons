@@ -1,8 +1,8 @@
 {
     "id": "ThreeDotsVerticalMajor",
     "name": "ThreeDotsVertical",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"three\"",
         "\"dots\"",

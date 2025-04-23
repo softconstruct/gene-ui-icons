@@ -1,8 +1,8 @@
 {
     "id": "ArrowUpMajor",
     "name": "ArrowUp",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["arrow up", "direction up", "navigate up", "move up", "upward arrow"],
     "aliases": [""],
     "description": "This icon represents an Upward Arrow, commonly used to indicate upward navigation, upload actions, or moving an element up.",

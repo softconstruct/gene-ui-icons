@@ -1,8 +1,8 @@
 {
     "id": "FullScreenMaximizeMajor",
     "name": "FullScreenMaximize",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"full screen\"",
         "\"maximize\"",

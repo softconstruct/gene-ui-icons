@@ -1,8 +1,8 @@
 {
     "id": "FingerprintMajor",
     "name": "Fingerprint",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"fingerprint\"",
         "\"identity\"",

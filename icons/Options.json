@@ -1,8 +1,8 @@
 {
     "id": "OptionsMajor",
     "name": "Options",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"options\"",
         "\"menu\"",

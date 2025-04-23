@@ -1,8 +1,8 @@
 {
     "id": "AlignmentLeftMajor",
     "name": "AlignmentLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "align left",
         "left alignment",

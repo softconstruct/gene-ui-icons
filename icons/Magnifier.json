@@ -1,8 +1,8 @@
 {
     "id": "SearchMajor",
     "name": "Search",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "search",
         "magnifier",

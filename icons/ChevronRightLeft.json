@@ -1,8 +1,8 @@
 {
     "id": "ChevronRightLeftMajor",
     "name": "ChevronRightLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"chevron\"",
         "\"right arrow\"",

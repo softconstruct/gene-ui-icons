@@ -1,8 +1,8 @@
 {
     "id": "HashtagMajor",
     "name": "Hashtag",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"hashtag\"",
         "\"symbol\"",

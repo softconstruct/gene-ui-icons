@@ -1,8 +1,8 @@
 {
     "id": "ArrowLeftMajor",
     "name": "ArrowLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["arrow", "left", "back", "return", "navigate", "move", "direction"],
     "aliases": [""],
     "description": "A left-pointing arrow icon typically used for navigation purposes, such as returning to a previous page or section.",

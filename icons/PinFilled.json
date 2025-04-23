@@ -1,8 +1,8 @@
 {
     "id": "PinFilledMajor",
     "name": "PinFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"pin\"",
         "\"filled\"",

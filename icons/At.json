@@ -1,8 +1,8 @@
 {
     "id": "AtMajor",
     "name": "At",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"at\"",
         "\"symbol\"",

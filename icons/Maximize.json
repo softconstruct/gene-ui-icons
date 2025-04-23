@@ -1,8 +1,8 @@
 {
     "id": "ArrowMaximizeMajor",
     "name": "ArrowMaximize",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["Maximize", "expand", "enlarge", "full screen", "resize", "arrows."],
     "aliases": [""],
     "description": "The arrow maximize icon indicates the action of expanding an element to its maximum size, often to fill the entire screen or container.",

@@ -1,8 +1,8 @@
 {
     "id": "ChevronLeftMajor",
     "name": "ChevronLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "left",
         "chevron",

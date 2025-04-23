@@ -1,8 +1,8 @@
 {
     "id": "SuccessFillMajor",
     "name": "SuccessFill",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "success",
         "checkmark",

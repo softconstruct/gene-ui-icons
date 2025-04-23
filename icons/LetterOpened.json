@@ -1,8 +1,8 @@
 {
     "id": "LetterOpenedMajor",
     "name": "LetterOpened",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"letter\"",
         "\"opened\"",
