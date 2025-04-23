@@ -1,8 +1,8 @@
 {
     "id": "TagOutlineMajor",
     "name": "TagOutline",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "bookmark",
         "flag",

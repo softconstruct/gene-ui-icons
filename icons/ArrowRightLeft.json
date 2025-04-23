@@ -1,8 +1,8 @@
 {
     "id": "ArrowRightLeftMajor",
     "name": "ArrowRightLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["\"swap\"", "\"exchange\"", "\"transfer\"", "\"arrows\""],
     "aliases": [""],
     "description": "The arrowswap icon indicates an action to exchange or switch items, values, or positions. It is typically used to represent reversing the direction or swapping two elements.",

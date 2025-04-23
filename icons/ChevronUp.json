@@ -1,8 +1,8 @@
 {
     "id": "ChevronUpMajor",
     "name": "ChevronUp",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "collapse",
         "chevron",

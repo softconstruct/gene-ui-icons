@@ -1,8 +1,8 @@
 {
     "id": "CopyMajor",
     "name": "Copy",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "copy",
         "duplicate",

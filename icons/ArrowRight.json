@@ -1,8 +1,8 @@
 {
     "id": "ArrowRightMajor",
     "name": "ArrowRight",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["arrow", "right", "forward", "next", "navigate", "direction", "move", "forward"],
     "aliases": [""],
     "description": "A right-pointing arrow icon typically used for navigation purposes, such as moving to the next page or section.",

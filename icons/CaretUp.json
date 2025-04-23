@@ -1,8 +1,8 @@
 {
     "id": "CaretUpMajor",
     "name": "CaretUp",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["Caret", "up", "arrow", "navigation", "collapse", "upward."],
     "aliases": [""],
     "description": "The caret up icon indicates upward movement or navigation, typically used to collapse a section, scroll up, or indicate an increase in value or hierarchy.",

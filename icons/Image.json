@@ -1,8 +1,8 @@
 {
     "id": "ImageMajor",
     "name": "Image",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"Image\"",
         "\"Picture\"",

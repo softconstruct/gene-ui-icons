@@ -1,8 +1,8 @@
 {
     "id": "PowerMajor",
     "name": "Power",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"power\"",
         "\"energy\"",

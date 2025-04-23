@@ -1,8 +1,8 @@
 {
     "id": "OnePageMajor",
     "name": "OnePage",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["one", "page", "single", "document", "view", "scroll", "display"],
     "aliases": [""],
     "description": "The One Page icon represents a single page of content or document, often used to indicate a focused, full-page view. It can symbolize a streamlined display where all content is contained on one page, without the need for scrolling or switching between different sections.",

@@ -1,8 +1,8 @@
 {
     "id": "EmailTemplateMajor",
     "name": "EmailTemplate",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"email\"",
         "\"template\"",

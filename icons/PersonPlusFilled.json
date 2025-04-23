@@ -1,8 +1,8 @@
 {
     "id": "PersonPlusFilledMajor",
     "name": "PersonPlusFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"person\"",
         "\"plus\"",

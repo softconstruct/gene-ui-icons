@@ -1,8 +1,8 @@
 {
-    "id": "AlignmentRightMajor",
+    "id": "AlignmentRightFilledMajor",
     "name": "AlignmentRightFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "align right filled",
         "right alignmengt filled",

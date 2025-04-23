@@ -1,8 +1,8 @@
 {
     "id": "AlignmentBottomMajor",
     "name": "AlignmentBottom",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "align bottom",
         "vertical alignment",

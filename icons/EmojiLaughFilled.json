@@ -1,8 +1,8 @@
 {
     "id": "EmojiLaughFilledMajor",
     "name": "EmojiLaughFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"emoji\"",
         "\"laugh\"",

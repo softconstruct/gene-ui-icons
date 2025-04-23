@@ -1,8 +1,8 @@
 {
     "id": "CircleEqualFilledMajor",
     "name": "CircleEqualFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"circle\"",
         "\"equal\"",

@@ -1,8 +1,8 @@
 {
     "id": "EmojiMehFilledMajor",
     "name": "EmojiMehFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"emoji\"",
         "\"meh\"",

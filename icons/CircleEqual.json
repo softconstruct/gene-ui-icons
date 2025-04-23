@@ -1,8 +1,8 @@
 {
     "id": "CircleEqualMajor",
     "name": "CircleEqual",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"circle\"",
         "\"equal\"",

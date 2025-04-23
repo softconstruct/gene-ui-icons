@@ -1,8 +1,8 @@
 {
     "id": "MicrophoneMajor",
     "name": "Microphone",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"microphone\"",
         "\"audio\"",

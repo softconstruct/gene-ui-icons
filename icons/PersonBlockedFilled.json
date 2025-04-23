@@ -1,8 +1,8 @@
 {
     "id": "PersonBlockedFilledMajor",
     "name": "PersonBlockedFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"person\"",
         "\"blocked\"",

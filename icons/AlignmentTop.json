@@ -1,8 +1,8 @@
 {
     "id": "AlignmentTopMajor",
     "name": "AlignmentTop",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "align top",
         "top alignment",

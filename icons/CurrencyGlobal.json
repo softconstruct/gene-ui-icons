@@ -1,8 +1,8 @@
 {
     "id": "CurrencyGlobalMajor",
     "name": "CurrencyGlobal",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"currency\"",
         "\"global\"",

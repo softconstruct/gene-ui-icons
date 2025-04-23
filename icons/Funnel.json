@@ -1,8 +1,8 @@
 {
     "id": "FunnelMajor",
     "name": "Funnel",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["\"filter\"", "\"sort\"", "\"funnel\"", "\"adjust\"", "\"options\"", "\"refine\""],
     "aliases": [""],
     "description": "The Funnel icon represents the action of refining or sorting data by applying specific criteria. ",

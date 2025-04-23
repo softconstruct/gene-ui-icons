@@ -1,8 +1,8 @@
 {
     "id": "FolderOpenMajor",
     "name": "FolderOpen",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"folder\"",
         "\"open\"",

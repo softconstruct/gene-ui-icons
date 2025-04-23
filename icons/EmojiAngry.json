@@ -1,8 +1,8 @@
 {
     "id": "EmojiAngryMajor",
     "name": "EmojiAngry",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "emoji",
         "angry",

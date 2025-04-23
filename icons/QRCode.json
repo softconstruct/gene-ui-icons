@@ -1,8 +1,8 @@
 {
     "id": "QRCodeMajor",
     "name": "QRCode",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"qr code\"",
         "\"scan\"",

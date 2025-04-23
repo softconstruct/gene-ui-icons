@@ -1,8 +1,8 @@
 {
     "id": "AlignmentRightMajor",
     "name": "AlignmentRight",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["align right", "right alignment", "right edge align", "horizontal align right"],
     "aliases": [""],
     "description": "This icon represents Right Alignment, used to align objects or elements along a shared right edge.",

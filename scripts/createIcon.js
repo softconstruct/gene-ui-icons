@@ -51,8 +51,8 @@ const askQuestions = (sourceSVGsList = []) => {
             message: 'Choose an Icon set: ',
             choices: ['Major', 'Minor'],
             filter: (value) => {
-                newIcon.set = value;
-                return value;
+                newIcon.set = value.toLowerCase();
+                return newIcon.set;
             }
         },
         {
@@ -62,8 +62,8 @@ const askQuestions = (sourceSVGsList = []) => {
             message: 'Choose an Icon type: ',
             choices: ['Outline', 'Filled'],
             filter: (value) => {
-                newIcon.type = value;
-                return value;
+                newIcon.type = value.toLowerCase();
+                return newIcon.type;
             }
         },
         {

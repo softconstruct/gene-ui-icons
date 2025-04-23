@@ -1,8 +1,8 @@
 {
     "id": "ActivityRecentMajor",
     "name": "ActivityRecent",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"activity\"",
         "\"recent\"",

@@ -1,8 +1,8 @@
 {
     "id": "ErrorAlertFillMajor",
     "name": "ErrorAlertFill",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "error",
         "status",

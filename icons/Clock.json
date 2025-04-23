@@ -1,8 +1,8 @@
 {
     "id": "ClockMajor",
     "name": "Clock",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "clock",
         "time",

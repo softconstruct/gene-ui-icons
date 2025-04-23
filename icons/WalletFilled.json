@@ -1,8 +1,8 @@
 {
     "id": "WalletFilledMajor",
     "name": "WalletFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"wallet\"",
         "\"filled\"",

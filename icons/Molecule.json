@@ -1,8 +1,8 @@
 {
     "id": "MoleculeMajor",
     "name": "Molecule",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"molecule\"",
         "\"atom\"",

@@ -1,8 +1,8 @@
 {
     "id": "FlaskMajor",
     "name": "Flask",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"Flask\"",
         "\"laboratory\"",

@@ -1,8 +1,8 @@
 {
     "id": "RotateLeftMajor",
     "name": "RotateLeft",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": [
         "\"rotate\"",
         "\"left\"",

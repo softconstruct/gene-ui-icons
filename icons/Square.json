@@ -1,8 +1,8 @@
 {
     "id": "SquareMajor",
     "name": "Square",
-    "set": "Major",
-    "type": "Outline",
+    "set": "major",
+    "type": "outline",
     "keywords": ["square", "shape","select", "frame", "border" ],
     "aliases": [""],
     "description": "A square icon that serves as a basic geometric shape, often used as a placeholder, container, or outline for various UI elements.",

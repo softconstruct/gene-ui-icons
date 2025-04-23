@@ -1,8 +1,8 @@
 {
     "id": "CalendarXFilledMajor",
     "name": "CalendarXFilled",
-    "set": "Major",
-    "type": "Filled",
+    "set": "major",
+    "type": "filled",
     "keywords": [
         "\"Calendar\"",
         "\"date\"",
