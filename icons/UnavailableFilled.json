@@ -1,6 +1,6 @@
 {
-    "id": "UnavailableFillMajor",
-    "name": "UnavailableFill",
+    "id": "UnavailableFilledMajor",
+    "name": "UnavailableFilled",
     "set": "major",
     "type": "filled",
     "keywords": ["unavailable", "restricted", "status", "offline", "closed", "filled"],

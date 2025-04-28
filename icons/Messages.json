@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"Chat\"",
-        "\"multiple\"",
-        "\"messages\"",
-        "\"conversation\"",
-        "\"communication\"",
-        "\"group."
+        "Chat",
+        "multiple",
+        "messages",
+        "conversation",
+        "communication",
+        "group."
     ],
     "aliases": [""],
     "description": "The messages  icon represents group conversations or multiple chat threads, often used to indicate messaging or communication features involving more than one person or thread.",

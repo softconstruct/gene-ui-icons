@@ -1,6 +1,6 @@
 {
-    "id": "UnavailableOutlineMajor",
-    "name": "UnavailableOutline",
+    "id": "UnavailableMajor",
+    "name": "Unavailable",
     "set": "major",
     "type": "outline",
     "keywords": [

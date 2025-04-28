@@ -4,13 +4,13 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"circle\"",
-        "\"equal\"",
-        "\"balance\"",
-        "\"equality\"",
-        "\"sign\"",
-        "\"math\"",
-        "\"mathematical\""
+        "circle",
+        "equal",
+        "balance",
+        "equality",
+        "sign",
+        "math",
+        "mathematical"
     ],
     "aliases": [""],
     "description": "CircleEqual icon represents equality enclosed in a circular design, commonly used to symbolize balance, equations, or comparisons in applications and interfaces.",

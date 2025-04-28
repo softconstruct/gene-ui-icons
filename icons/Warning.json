@@ -1,6 +1,6 @@
 {
-    "id": "WarningOutlineMajor",
-    "name": "WarningOutline",
+    "id": "WarningMajor",
+    "name": "Warning",
     "set": "major",
     "type": "outline",
     "keywords": [

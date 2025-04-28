@@ -1,6 +1,6 @@
 {
-    "id": "CubeMajor",
-    "name": "Cube",
+    "id": "BoxMajor",
+    "name": "Box",
     "set": "major",
     "type": "outline",
     "keywords": [
@@ -16,7 +16,7 @@
         "design system."
     ],
     "aliases": [""],
-    "description": "A cube icon typically represents a 3D object or concept related to structure, organization, or a block element. It is often used to symbolize data storage, building blocks, or modularity in interfaces",
+    "description": "A box icon typically represents a 3D object or concept related to structure, organization, or a block element. It is often used to symbolize data storage, building blocks, or modularity in interfaces",
     "sizes": [16, 20, 24, 28, 32, 48],
     "creation_date": "11/15/2024, 11:31:15 AM"
 }

@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"bar\"",
-        "\"triple\"",
-        "\"data\"",
-        "\"graph\"",
-        "\"statistics\"",
-        "\"column triple\""
+        "bar",
+        "triple",
+        "data",
+        "graph",
+        "statistics",
+        "column triple"
     ],
     "aliases": [""],
     "description": "The Bar Triple icon represents three vertical bars, often used to indicate data, statistics, or progress in a graphical or chart-based format. It is commonly used in data visualization tools, dashboards, or UI components that display multiple values or comparisons side by side.",

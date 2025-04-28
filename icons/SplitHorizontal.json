@@ -4,13 +4,13 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"split\"",
-        "\"horizontal\"",
-        "\"divide\"",
-        "\"layout\"",
-        "\"sections\"",
-        "\"pane\"",
-        "\"separation\""
+        "split",
+        "horizontal",
+        "divide",
+        "layout",
+        "sections",
+        "pane",
+        "separation"
     ],
     "aliases": [""],
     "description": "The Split Horizontal icon represents a horizontal division of content or interface into separate sections or panes. It is commonly used in layout settings, split-view screens, or tools that allow users to organize content horizontally.",

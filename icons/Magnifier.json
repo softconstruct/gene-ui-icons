@@ -1,6 +1,6 @@
 {
-    "id": "SearchMajor",
-    "name": "Search",
+    "id": "MagnifierMajor",
+    "name": "Magnifier",
     "set": "major",
     "type": "outline",
     "keywords": [
