@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"fingerprint\"",
-        "\"identity\"",
-        "\"biometric\"",
-        "\"security\"",
-        "\"login\"",
-        "\"access\""
+        "fingerprint",
+        "identity",
+        "biometric",
+        "security",
+        "login",
+        "access"
     ],
     "aliases": [""],
     "description": "The Fingerprint icon symbolizes biometric authentication or identity verification using a fingerprint scan.",

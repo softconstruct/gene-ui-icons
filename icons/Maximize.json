@@ -1,6 +1,6 @@
 {
-    "id": "ArrowMaximizeMajor",
-    "name": "ArrowMaximize",
+    "id": "MaximizeMajor",
+    "name": "Maximize",
     "set": "major",
     "type": "outline",
     "keywords": ["Maximize", "expand", "enlarge", "full screen", "resize", "arrows."],

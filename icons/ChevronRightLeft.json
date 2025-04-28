@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"chevron\"",
-        "\"right arrow\"",
-        "\"left arrow\"",
-        "\"navigation\"",
-        "\"direction\"",
-        "\"collapse\"",
+        "chevron",
+        "right arrow",
+        "left arrow",
+        "navigation",
+        "direction",
+        "collapse",
         ""
     ],
     "aliases": [""],

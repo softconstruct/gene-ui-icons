@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"bell\"",
-        "\"notification\"",
-        "\"alert\"",
-        "\"reminder\"",
-        "\"message\"",
-        "\"ring\""
+        "bell",
+        "notification",
+        "alert",
+        "reminder",
+        "message",
+        "ring"
     ],
     "aliases": [""],
     "description": "The Bell icon represents notifications or alerts, commonly used to indicate new messages, reminders, or updates in applications and interfaces.",

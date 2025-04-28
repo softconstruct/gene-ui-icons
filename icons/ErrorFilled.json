@@ -1,0 +1,23 @@
+{
+    "id": "ErrorFilledMajor",
+    "name": "ErrorFilled",
+    "set": "major",
+    "type": "filled",
+    "keywords": [
+        "error",
+        "status",
+        "error filled",
+        "filled",
+        "problem",
+        "critical",
+        "alert",
+        "danger",
+        "failure",
+        "attention",
+        "caution"
+    ],
+    "aliases": [""],
+    "description": " Icon indicating an error or critical status, usually filled with a color to emphasize the severity of the issue.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "8/23/2024, 1:47:58 PM"
+}

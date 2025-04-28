@@ -4,14 +4,14 @@
     "set": "major",
     "type": "filled",
     "keywords": [
-        "\"folder\"",
-        "\"open\"",
-        "\"file\"",
-        "\"document\"",
-        "\"access\"",
-        "\"data\"",
-        "\"view\"",
-        "\"filled\""
+        "folder",
+        "open",
+        "file",
+        "document",
+        "access",
+        "data",
+        "view",
+        "filled"
     ],
     "aliases": [""],
     "description": "The Folder Open Filled icon represents a bold, solid version of an open folder, emphasizing accessibility to its contents. It is used to signify an active or expanded folder in file management systems or organizational tools.",

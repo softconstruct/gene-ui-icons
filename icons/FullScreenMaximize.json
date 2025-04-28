@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"full screen\"",
-        "\"maximize\"",
-        "\"expand\"",
-        "\"enlarge\"",
-        "\"display\"",
-        "\"view\""
+        "full screen",
+        "maximize",
+        "expand",
+        "enlarge",
+        "display",
+        "view"
     ],
     "aliases": [""],
     "description": "The Full Screen Maximize icon represents an action to expand content or a window to occupy the entire screen. It is commonly used in media players, dashboards, or any interface where maximizing the view is necessary for better visibility or focus.",

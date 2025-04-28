@@ -4,14 +4,14 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"new window\"",
-        "\"window\"",
-        "\"redirect\"",
-        "\"navigation\"",
-        "\"external link\"",
-        "\"new page\"",
-        "\"hyperlink\"",
-        "\"url\""
+        "new window",
+        "window",
+        "redirect",
+        "navigation",
+        "external link",
+        "new page",
+        "hyperlink",
+        "url"
     ],
     "aliases": [""],
     "description": "Icon indicating the action to open a link in a new window or tab.",

@@ -4,13 +4,13 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"monitor\"",
-        "\"screen\"",
-        "\"display\"",
-        "\"computer\"",
-        "\"desktop\"",
-        "\"device\"",
-        "\"technology\""
+        "monitor",
+        "screen",
+        "display",
+        "computer",
+        "desktop",
+        "device",
+        "technology"
     ],
     "aliases": [""],
     "description": "The Monitor icon represents a computer screen or display device, typically used to signify technology-related features or sections, such as desktop applications, viewing platforms, or digital devices",

@@ -4,13 +4,13 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"flag\"",
-        "\"marker\"",
-        "\"tag\"",
-        "\"highlight\"",
-        "\"attention\"",
-        "\"notification\"",
-        "\"priority\""
+        "flag",
+        "marker",
+        "tag",
+        "highlight",
+        "attention",
+        "notification",
+        "priority"
     ],
     "aliases": [""],
     "description": "The Flag icon represents a flag marker, often used to indicate important items, set priorities, or draw attention to specific elements.",

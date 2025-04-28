@@ -1,23 +1,24 @@
 {
-    "id": "ErrorAlertFillMajor",
-    "name": "ErrorAlertFill",
+    "id": "ErrorMajor",
+    "name": "Error",
     "set": "major",
     "type": "outline",
     "keywords": [
         "error",
-        "status",
-        "error filled",
-        "filled",
-        "problem",
-        "critical",
+        "outline",
         "alert",
-        "danger",
+        "warning",
+        "problem",
+        "issue",
         "failure",
         "attention",
-        "caution"
+        "critical",
+        "danger",
+        "caution",
+        "outlined"
     ],
     "aliases": [""],
-    "description": " Icon indicating an error or critical status, usually filled with a color to emphasize the severity of the issue.",
+    "description": " Icon indicating an error or critical status, outlined to signify a problem or issue that needs attention.",
     "sizes": [16, 20, 24, 28, 32, 48],
-    "creation_date": "8/23/2024, 1:47:58 PM"
+    "creation_date": "8/23/2024, 1:50:20 PM"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "DotMajor",
-    "name": "Dot",
+    "id": "CircleSmallFilledMajor",
+    "name": "CircleSmallFilled",
     "set": "major",
     "type": "filled",
     "keywords": [

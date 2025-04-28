@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"arrow\"",
-        "\"bounce\"",
-        "\"down\"",
-        "\"movement\"",
-        "\"direction\"",
-        "\"downward\""
+        "arrow",
+        "bounce",
+        "down",
+        "movement",
+        "direction",
+        "downward"
     ],
     "aliases": [""],
     "description": "The Arrow Bounce Down icon represents a downward movement or action, typically indicating the expansion of content, scrolling down, or initiating a downward flow. The bouncing effect adds a dynamic feel, making it ideal for interactive UI elements where users are prompted to move or expand content downward.",

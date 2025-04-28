@@ -1,6 +1,6 @@
 {
-    "id": "CubeFilledMajor",
-    "name": "CubeFilled",
+    "id": "BoxFilledMajor",
+    "name": "BoxFilled",
     "set": "major",
     "type": "filled",
     "keywords": [
@@ -16,7 +16,7 @@
         "design system."
     ],
     "aliases": [""],
-    "description": "The cube filled icon represents a solid, 3D block or object, often used to symbolize stability, storage, or a unit within a larger system. It is commonly used in interfaces to indicate a fully contained or structured element.",
+    "description": "The Box filled icon represents a solid, 3D block or object, often used to symbolize stability, storage, or a unit within a larger system. It is commonly used in interfaces to indicate a fully contained or structured element.",
     "sizes": [16, 20, 24, 28, 32, 48],
     "creation_date": "11/15/2024, 11:31:52 AM"
 }

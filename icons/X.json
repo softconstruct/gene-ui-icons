@@ -4,14 +4,14 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"x\"",
-        "\"exit\"",
-        "\"dismiss\"",
-        "\"close\"",
-        "\"hide\"",
-        "\"cancel\"",
-        "\"remove\"",
-        "\"close window\""
+        "x",
+        "exit",
+        "dismiss",
+        "close",
+        "hide",
+        "cancel",
+        "remove",
+        "close window"
     ],
     "aliases": [""],
     "description": "It  allows users to close or hide UI elements like modals, notifications, or alerts with a simple action, enhancing user control over content visibility.",
