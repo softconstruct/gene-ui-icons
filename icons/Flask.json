@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"Flask\"",
-        "\"laboratory\"",
-        "\"experiment\"",
-        "\"science\"",
-        "\"chemistry\"",
-        "\"testing.\""
+        "Flask",
+        "laboratory",
+        "experiment",
+        "science",
+        "chemistry",
+        "testing."
     ],
     "aliases": [""],
     "description": "The flask icon represents scientific experimentation, testing, or research, commonly used to indicate laboratory-related activities, experimental features, or development testing environments.",

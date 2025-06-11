@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"full screen\"",
-        "\"shrink\"",
-        "\"restore\"",
-        "\"resize\"",
-        "\"collapse\"",
-        "\"exit\""
+        "full screen",
+        "shrink",
+        "restore",
+        "resize",
+        "collapse",
+        "exit"
     ],
     "aliases": [""],
     "description": "The Full Screen Minimize icon represents an action to exit fullscreen mode and return to the previous window size or default view.",

@@ -4,14 +4,14 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"minimize\"",
-        "\"collapse\"",
-        "\"reduce\"",
-        "\"shrink\"",
-        "\"downsize\"",
-        "\"hide\"",
-        "\"compact\"",
-        "\"action\""
+        "minimize",
+        "collapse",
+        "reduce",
+        "shrink",
+        "downsize",
+        "hide",
+        "compact",
+        "action"
     ],
     "aliases": [""],
     "description": "The Minimize icon represents the action of reducing the size or hiding an interface element, commonly used in applications to condense or collapse windows or sections.",

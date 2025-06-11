@@ -1,6 +1,6 @@
 {
-    "id": "TagOutlineMajor",
-    "name": "TagOutline",
+    "id": "TagMajor",
+    "name": "Tag",
     "set": "major",
     "type": "outline",
     "keywords": [

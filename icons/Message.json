@@ -4,12 +4,12 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"Chat\"",
-        "\"message\"",
-        "\"conversation\"",
-        "\"communication\"",
-        "\"talk\"",
-        "\"bubble."
+        "Chat",
+        "message",
+        "conversation",
+        "communication",
+        "talk",
+        "bubble."
     ],
     "aliases": [""],
     "description": "The message  icon represents messaging or communication, typically used to signify a single conversation or the ability to send and receive messages.",

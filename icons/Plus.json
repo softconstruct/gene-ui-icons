@@ -1,0 +1,11 @@
+{
+    "id": "PlusMajor",
+    "name": "Plus",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["add", "plus", "create", "new item", "insert", "add icon", "plus sign"],
+    "aliases": [""],
+    "description": "A simple plus icon, commonly used to represent adding a new item, creating content, or expanding options. Typically used in user interfaces for actions like 'Add New', 'Create', or 'Insert'.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "6/11/2025, 12:04:23 PM"
+}

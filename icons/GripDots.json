@@ -4,14 +4,14 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"grip\"",
-        "\"dots\"",
-        "\"handle\"",
-        "\"drag\"",
-        "\"move\"",
-        "\"reorder\"",
-        "\"control\"",
-        "\"interaction\""
+        "grip",
+        "dots",
+        "handle",
+        "drag",
+        "move",
+        "reorder",
+        "control",
+        "interaction"
     ],
     "aliases": [""],
     "description": "The GripDots icon represents a grid or collection of small dots, often used as a visual handle for drag-and-drop interactions in a UI. It indicates that an element can be moved, reordered, or adjusted by clicking and dragging",

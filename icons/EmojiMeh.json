@@ -4,14 +4,14 @@
     "set": "major",
     "type": "outline",
     "keywords": [
-        "\"emoji\"",
-        "\"meh\"",
-        "\"neutral\"",
-        "\"expression\"",
-        "\"face\"",
-        "\"unimpressed\"",
-        "\"mood\"",
-        "\"indifferent\""
+        "emoji",
+        "meh",
+        "neutral",
+        "expression",
+        "face",
+        "unimpressed",
+        "mood",
+        "indifferent"
     ],
     "aliases": [""],
     "description": "The Emoji Meh icon represents a neutral or indifferent facial expression, typically depicted with a straight-line mouth and minimal emotion. It is used to convey feelings of apathy, lack of interest, or mild dissatisfaction",
