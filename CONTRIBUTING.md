@@ -64,7 +64,7 @@ yarn install
 
 1. **Download**: SVG from Figma or another source.
 2. **Place the SVG**: Add your SVG file to the `svgs/` directory. (If directory not exist create it
-   in the root of your cloned repository)
+   in the root of your cloned repository).
 
 ### Using the Create Icon Script
 
