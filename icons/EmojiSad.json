@@ -2,7 +2,7 @@
     "id": "EmojiSadMajor",
     "name": "EmojiSad",
     "set": "major",
-    "type": "filled",
+    "type": "outline",
     "keywords": [
         "emoji",
         "sad",
