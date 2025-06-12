@@ -1,6 +1,6 @@
 {
-    "id": "InfoOutlineMajor",
-    "name": "InfoOutline",
+    "id": "InfoMajor",
+    "name": "Info",
     "set": "major",
     "type": "outline",
     "keywords": [
