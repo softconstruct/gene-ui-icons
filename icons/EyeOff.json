@@ -1,0 +1,29 @@
+{
+    "id": "EyeOffMajor",
+    "name": "EyeOff",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "eye off",
+        "hidden",
+        "hide",
+        "invisible",
+        "view off",
+        "conceal",
+        "password hide",
+        "visibility off",
+        "not visible",
+        "close eye",
+        "mask",
+        "private",
+        "privacy",
+        "no view",
+        "unsee",
+        "disable view",
+        "UI eye-off icon"
+    ],
+    "aliases": [""],
+    "description": "Icon representing hidden content, invisibility, or a view that is turned off. It’s typically used for toggling hidden passwords, disabling visibility, or concealing elements in user interfaces.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "6/26/2025, 5:19:38 PM"
+}
