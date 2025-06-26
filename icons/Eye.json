@@ -1,0 +1,27 @@
+{
+    "id": "EyeMajor",
+    "name": "Eye",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "eye",
+        "visible",
+        "show",
+        "view",
+        "visibility",
+        "reveal",
+        "display",
+        "watch",
+        "look",
+        "open",
+        "visible icon",
+        "UI eye icon",
+        "preview",
+        "see",
+        "unhide"
+    ],
+    "aliases": [""],
+    "description": "Icon representing visibility, view, or show. It is commonly used in UI elements like password reveal toggles, visibility settings, and preview features.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "6/26/2025, 5:01:27 PM"
+}
