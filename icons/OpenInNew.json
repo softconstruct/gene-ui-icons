@@ -1,0 +1,11 @@
+{
+    "id": "OpenInNewMajor",
+    "name": "OpenInNew",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["open", "new", "tab", "new tab", "link", "arrow"],
+    "aliases": [""],
+    "description": "This icon represents an external link or open in new window action, typically used to indicate navigation to a resource outside the current context.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "6/26/2025, 3:55:29 PM"
+}
