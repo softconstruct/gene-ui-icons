@@ -15,7 +15,7 @@
         "Verified",
         "yes",
         "correct",
-        "saved",
+        "saved"
     ],
     "aliases": [""],
     "description": "A checkmark inside a circle, used to indicate success, completion, or a positive status.",
