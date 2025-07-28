@@ -1,0 +1,24 @@
+{
+    "id": "CheckMarkCircleFilledMajor",
+    "name": "CheckMarkCircleFilled",
+    "set": "major",
+    "type": "filled",
+    "keywords": [
+        "Check",
+        "Checkmark",
+        "Circle Check",
+        "Success",
+        "Complete",
+        "Done",
+        "Approved",
+        "Confirmed",
+        "Verified",
+        "yes",
+        "correct",
+        "saved",
+    ],
+    "aliases": [""],
+    "description": "A checkmark inside a circle, used to indicate success, completion, or a positive status.",
+    "sizes": [16, 20, 24, 28, 32, 48],
+    "creation_date": "7/28/2025, 6:34:48 PM"
+}
