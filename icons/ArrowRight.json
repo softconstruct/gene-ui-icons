@@ -3,7 +3,7 @@
     "name": "ArrowRight",
     "set": "major",
     "type": "outline",
-    "keywords": ["arrow", "right", "forward", "next", "navigate", "direction", "move", "forward"],
+    "keywords": ["arrow", "right", "forward", "next", "navigate", "direction", "move"],
     "aliases": [""],
     "description": "A right-pointing arrow icon typically used for navigation purposes, such as moving to the next page or section.",
     "sizes": [16, 20, 24, 28, 32, 48],

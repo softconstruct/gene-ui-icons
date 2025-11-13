@@ -12,8 +12,7 @@
         "Input",
         "Directional",
         "Arcade",
-        "Movement",
-        ""
+        "Movement"
     ],
     "aliases": [""],
     "description": "The Joystick icon represents a gaming controller, typically used for navigation or gameplay. It is commonly used in gaming applications, interfaces, or systems that involve directional input or controls for interactive entertainment.",

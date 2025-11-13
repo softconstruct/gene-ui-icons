@@ -3,7 +3,7 @@
     "name": "CaretRight",
     "set": "major",
     "type": "outline",
-    "keywords": ["Caret", "right", "", "arrow", "navigation", "forward", "next."],
+    "keywords": ["Caret", "right", "arrow", "navigation", "forward", "next."],
     "aliases": [""],
     "description": "The caret right  icon indicates navigation or movement to the right, typically used to signify progressing forward, accessing the next item, or expanding a section.",
     "sizes": [16, 20, 24, 28, 32, 48],
