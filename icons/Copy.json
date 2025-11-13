@@ -11,8 +11,7 @@
         "clone",
         "copy button",
         "copy action",
-        "replicate",
-        ""
+        "replicate"
     ],
     "aliases": [""],
     "description": "The Copy Component allows users to quickly duplicate content to their clipboard with a single click, commonly used in forms, text fields, and code snippets for efficient data replication.",
