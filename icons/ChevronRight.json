@@ -15,8 +15,7 @@
         "move right",
         "next page",
         "slide right",
-        "proceed",
-        ""
+        "proceed"
     ],
     "aliases": [""],
     "description": "It is primarily used to facilitate forward navigation, guiding users to move to the next page, screen, or step within an interface. This component is commonly employed in scenarios such as multi-step forms, carousels, and breadcrumb trails, where advancing to subsequent content is necessary.",
