@@ -1,0 +1,21 @@
+{
+    "id": "GearMajor",
+    "name": "Gear",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "gear",
+        "cog",
+        "settings",
+        "configuration",
+        "preferences",
+        "options",
+        "setup",
+        "mechanical",
+        "adjust"
+    ],
+    "aliases": [""],
+    "description": "The Gear icon represents a gear or cog, commonly used to indicate settings, configuration, preferences, or customization options in user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/16/2026, 5:09:25 PM"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "PencilMajor",
+    "name": "Pencil",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "pencil",
+        "edit",
+        "modify",
+        "write",
+        "draw",
+        "change",
+        "update",
+        "alter",
+        "revise"
+    ],
+    "aliases": [""],
+    "description": "The Pencil icon represents editing or writing functionality, commonly used to indicate the ability to modify content, write text, or make changes in user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/16/2026, 5:01:06 PM"
+}

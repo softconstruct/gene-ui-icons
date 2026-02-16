@@ -1,0 +1,11 @@
+{
+    "id": "ArrowCircleMajor",
+    "name": "ArrowCircle",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["arrow", "circle", "circular", "refresh", "reload", "update", "sync", "rotate"],
+    "aliases": [""],
+    "description": "The Arrow Circle icon represents circular arrows indicating refresh or reload functionality, commonly used to update content, reload pages, or sync information in user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/16/2026, 5:06:00 PM"
+}

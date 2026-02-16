@@ -19,6 +19,6 @@
     ],
     "aliases": [""],
     "description": "A filled circle icon is used as a visual cue to represent active or completed statuses, often signifying that a process, task, or condition is fully engaged or finished. Its solid design provides a strong, clear indicator, making it easy to identify key information at a glance, such as a successful action or an active state.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "11/19/2024, 1:42:51 PM"
 }

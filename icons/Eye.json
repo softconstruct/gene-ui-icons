@@ -22,6 +22,6 @@
     ],
     "aliases": [""],
     "description": "Icon representing visibility, view, or show. It is commonly used in UI elements like password reveal toggles, visibility settings, and preview features.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "6/26/2025, 5:01:27 PM"
 }

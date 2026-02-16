@@ -24,6 +24,6 @@
     ],
     "aliases": [""],
     "description": "Icon representing hidden content, invisibility, or a view that is turned off. It’s typically used for toggling hidden passwords, disabling visibility, or concealing elements in user interfaces.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "6/26/2025, 5:19:38 PM"
 }

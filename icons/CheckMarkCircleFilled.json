@@ -19,6 +19,6 @@
     ],
     "aliases": [""],
     "description": "A checkmark inside a circle, used to indicate success, completion, or a positive status.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "7/28/2025, 6:34:48 PM"
 }

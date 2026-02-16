@@ -52,7 +52,7 @@ and color, follow these steps:
 
 The icons accept the following props:
 
--   **`size`** (optional): Defines the size of the icon. Can be one of `16`, `20`, `24`, `28`, `32`,
+-   **`size`** (optional): Defines the size of the icon. Can be one of `12`, `16`, `20`, `24`, `28`, `32`,
     `48`.
 -   **`color`** (optional): Defines the color of the icon. Accepts any valid CSS color value.
 
