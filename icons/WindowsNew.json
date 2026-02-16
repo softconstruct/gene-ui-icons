@@ -15,6 +15,6 @@
     ],
     "aliases": [""],
     "description": "Icon indicating the action to open a link in a new window or tab.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "2/20/2025, 3:19:27 PM"
 }

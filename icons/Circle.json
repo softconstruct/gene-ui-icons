@@ -20,6 +20,6 @@
     ],
     "aliases": [""],
     "description": "A circle icon serves as a visual indicator for various system states, such as success, error, warning, or neutral. It is often used to represent the progress of a task, the condition of a process, or the activity state of a user or system. The design’s simplicity allows for quick recognition and understanding of the current status.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "11/19/2024, 1:41:11 PM"
 }

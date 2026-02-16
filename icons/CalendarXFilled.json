@@ -14,6 +14,6 @@
     ],
     "aliases": [""],
     "description": "The calendar icon represents dates, scheduling, or planning, commonly used to indicate access to a schedule, event list, or date picker.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "1/13/2025, 12:27:08 PM"
 }

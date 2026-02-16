@@ -20,6 +20,6 @@
     ],
     "aliases": [""],
     "description": "Icon representing success, completion, or approval, outlined to indicate a verified or confirmed action.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "8/23/2024, 2:28:47 PM"
 }

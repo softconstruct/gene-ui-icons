@@ -15,6 +15,6 @@
     ],
     "aliases": [""],
     "description": "The GripDots icon represents a grid or collection of small dots, often used as a visual handle for drag-and-drop interactions in a UI. It indicates that an element can be moved, reordered, or adjusted by clicking and dragging",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "1/14/2025, 3:49:26 PM"
 }

@@ -6,6 +6,6 @@
     "keywords": ["Caret", "up", "arrow", "navigation", "collapse", "upward."],
     "aliases": [""],
     "description": "The caret up icon indicates upward movement or navigation, typically used to collapse a section, scroll up, or indicate an increase in value or hierarchy.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "11/18/2024, 12:50:43 PM"
 }

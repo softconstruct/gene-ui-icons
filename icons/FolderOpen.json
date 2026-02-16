@@ -14,6 +14,6 @@
     ],
     "aliases": [""],
     "description": "The Folder Open icon represents an open folder, typically used to indicate access to its contents or an expanded directory view. It symbolizes that files or data within the folder are available for viewing or editing.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "1/14/2025, 3:43:04 PM"
 }

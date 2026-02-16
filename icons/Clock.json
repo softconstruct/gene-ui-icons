@@ -16,6 +16,6 @@
     ],
     "aliases": [""],
     "description": "The Clock icon represents a timepiece, typically used to indicate time-related features such as clocks, schedules, or timers. It is commonly used in applications for setting alarms, tracking time, managing appointments, or displaying current time.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "11/26/2024, 4:20:37 PM"
 }

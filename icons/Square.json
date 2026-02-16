@@ -6,6 +6,6 @@
     "keywords": ["square", "shape","select", "frame", "border" ],
     "aliases": [""],
     "description": "A square icon that serves as a basic geometric shape, often used as a placeholder, container, or outline for various UI elements.",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "8/16/2024, 1:50:18 PM"
 }

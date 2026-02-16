@@ -16,6 +16,6 @@
     ],
     "aliases": [""],
     "description": "The Activity Recent icon represents recent actions or updates, often used to display a log, timeline, or history of user activities. ",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "creation_date": "1/8/2025, 2:27:47 PM"
 }
