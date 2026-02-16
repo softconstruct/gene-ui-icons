@@ -11,7 +11,7 @@ const iconExports = [];
 const iconTypes = [
     `
 interface IconProps extends React.SVGProps<SVGSVGElement> {
-    size?: 16 | 20 | 24 | 28 | 32 | 48;
+    size?: 12 | 16 | 20 | 24 | 28 | 32 | 48;
     color?: string;
 }
 `
@@ -51,7 +51,7 @@ const metadataTypes = `export interface Icon {
     description: string;
     keywords: string[];
     aliases: string[];
-    sizes: 16 | 20 | 24 | 28 | 32 | 48;
+    sizes: 12 | 16 | 20 | 24 | 28 | 32 | 48;
     deprecated: boolean;
 }
   

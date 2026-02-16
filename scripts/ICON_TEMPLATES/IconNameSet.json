@@ -5,6 +5,6 @@
     "keywords": ["N/A"],
     "aliases": ["N/A"],
     "description": "N/A",
-    "sizes": [16, 20, 24, 28, 32, 48],
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
     "deprecated": false
 }
