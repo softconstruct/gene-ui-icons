@@ -1,0 +1,11 @@
+{
+    "id": "ColorFillMajor",
+    "name": "ColorFill",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["color", "fill", "paint", "bucket", "fill color", "background", "paint bucket"],
+    "aliases": [""],
+    "description": "The Color Fill icon represents fill or paint bucket functionality, commonly used to apply a fill color or paint area in design tools and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 5:50:20 PM"
+}

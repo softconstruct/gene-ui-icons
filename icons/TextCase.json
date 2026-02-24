@@ -1,0 +1,20 @@
+{
+    "id": "TextCaseMajor",
+    "name": "TextCase",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "case",
+        "capitalization",
+        "format",
+        "typography",
+        "title case",
+        "uppercase",
+        "sentence"
+    ],
+    "aliases": [""],
+    "description": "The Text Case icon represents text case or capitalization formatting, commonly used to indicate or change text case (e.g. title, sentence, upper, lower) in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 5:10:36 PM"
+}
