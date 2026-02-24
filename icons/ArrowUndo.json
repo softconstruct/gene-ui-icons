@@ -1,0 +1,11 @@
+{
+    "id": "ArrowUndoMajor",
+    "name": "ArrowUndo",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["arrow", "undo", "revert", "back", "reverse", "previous", "restore", "step back"],
+    "aliases": [""],
+    "description": "The Arrow Undo icon represents reverting or stepping back, commonly used to indicate undo, reverse an action, or return to a previous state in user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 4:22:57 PM"
+}

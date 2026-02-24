@@ -1,0 +1,11 @@
+{
+    "id": "TextItalicMajor",
+    "name": "TextItalic",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "italic", "font", "slant", "format", "typography", "emphasis", "style"],
+    "aliases": [""],
+    "description": "The Text Italic icon represents italic text formatting, commonly used to indicate or apply italic font style in text editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 4:59:15 PM"
+}

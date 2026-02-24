@@ -1,0 +1,21 @@
+{
+    "id": "TextBoldMajor",
+    "name": "TextBold",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "bold",
+        "font",
+        "weight",
+        "format",
+        "typography",
+        "emphasis",
+        "strong",
+        "B"
+    ],
+    "aliases": [""],
+    "description": "The Text Bold icon represents bold text formatting, commonly used to indicate or apply bold font weight in text editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 4:57:48 PM"
+}

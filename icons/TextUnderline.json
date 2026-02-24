@@ -1,0 +1,11 @@
+{
+    "id": "TextUnderlineMajor",
+    "name": "TextUnderline",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "underline", "font", "format", "typography", "emphasis", "underscore"],
+    "aliases": [""],
+    "description": "The Text Underline icon represents underlined text formatting, commonly used to indicate or apply underline in text editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 5:00:23 PM"
+}
