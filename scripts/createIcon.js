@@ -149,7 +149,7 @@ const createMetadata = async ({ name, set, type, keywords, aliases, description,
             `./icons/${fileName}.json`,
             prettier.format(
                 JSON.stringify({
-                    id: `${fileName}${set}`,
+                    id: `${fileName}${set.charAt(0).toUpperCase() + set.slice(1)}`,
                     name,
                     set,
                     type,
