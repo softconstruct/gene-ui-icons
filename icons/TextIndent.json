@@ -1,0 +1,11 @@
+{
+    "id": "TextIndentMajor",
+    "name": "TextIndent",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "indent", "paragraph", "increase indent", "format", "typography", "lines"],
+    "aliases": [""],
+    "description": "The Text Indent icon represents increasing paragraph indent, commonly used to indent text or lists in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 11:06:36 AM"
+}

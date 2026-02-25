@@ -1,0 +1,11 @@
+{
+    "id": "TextColorMajor",
+    "name": "TextColor",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "color", "font color", "typography", "format", "highlight", "text style"],
+    "aliases": [""],
+    "description": "The Text Color icon represents text or font color, commonly used to indicate or change the color of text in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/24/2026, 5:51:41 PM"
+}

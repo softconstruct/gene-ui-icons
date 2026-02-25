@@ -1,0 +1,20 @@
+{
+    "id": "TextAlignCenterMajor",
+    "name": "TextAlignCenter",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "align",
+        "center",
+        "alignment",
+        "paragraph",
+        "format",
+        "typography",
+        "lines"
+    ],
+    "aliases": [""],
+    "description": "The Text Align Center icon represents center-aligned text, commonly used to align paragraphs or text to the center in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 10:09:47 AM"
+}

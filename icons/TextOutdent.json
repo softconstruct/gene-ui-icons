@@ -1,0 +1,19 @@
+{
+    "id": "TextOutdentMajor",
+    "name": "TextOutdent",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "outdent",
+        "paragraph",
+        "decrease indent",
+        "format",
+        "typography",
+        "lines"
+    ],
+    "aliases": [""],
+    "description": "The Text Outdent icon represents decreasing paragraph indent, commonly used to outdent text or lists in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 11:08:18 AM"
+}
