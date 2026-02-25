@@ -1,0 +1,20 @@
+{
+    "id": "TextAlignJustifyMajor",
+    "name": "TextAlignJustify",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "align",
+        "justify",
+        "alignment",
+        "paragraph",
+        "format",
+        "typography",
+        "lines"
+    ],
+    "aliases": [""],
+    "description": "The Text Align Justify icon represents justified text alignment, commonly used to justify paragraphs in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 10:54:35 AM"
+}

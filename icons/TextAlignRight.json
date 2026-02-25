@@ -1,0 +1,20 @@
+{
+    "id": "TextAlignRightMajor",
+    "name": "TextAlignRight",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "align",
+        "right",
+        "alignment",
+        "paragraph",
+        "format",
+        "typography",
+        "lines"
+    ],
+    "aliases": [""],
+    "description": "The Text Align Right icon represents right-aligned text, commonly used to align paragraphs or text to the right in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 10:53:02 AM"
+}
