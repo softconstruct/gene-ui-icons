@@ -1,0 +1,11 @@
+{
+    "id": "TextBulletListMajor",
+    "name": "TextBulletList",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "bullet", "list", "unordered", "format", "typography", "lines"],
+    "aliases": [""],
+    "description": "The Text Bullet List icon represents an unordered bullet list, commonly used to create or format bullet lists in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "2/25/2026, 11:09:27 AM"
+}
