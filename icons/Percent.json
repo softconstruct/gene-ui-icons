@@ -1,0 +1,21 @@
+{
+    "id": "PercentMajor",
+    "name": "Percent",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "percent",
+        "percentage",
+        "discount",
+        "sale",
+        "rate",
+        "ratio",
+        "math",
+        "finance",
+        "pricing"
+    ],
+    "aliases": [""],
+    "description": "The Percent icon represents a percentage symbol, commonly used to indicate discounts, rates, ratios, or percentage-based values in financial and analytical user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "3/5/2026, 1:20:41 PM"
+}
