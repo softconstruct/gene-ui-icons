@@ -103,7 +103,7 @@ To remove an existing icon from the library
 1. Run the remove icon script
 
 ```bash
-npm run remove-icon
+npm run remove-icons
 ```
 
 2. Follow the prompts
