@@ -1,0 +1,11 @@
+{
+    "id": "UploadMajor",
+    "name": "Upload",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["upload", "arrow", "send", "file", "transfer", "share", "export"],
+    "aliases": [""],
+    "description": "The Upload icon typically features an upward-pointing arrow, symbolizing the action of sending or transferring files or data from a local device to a remote source. It is commonly used in applications for actions like exporting documents, uploading files, or sharing data.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "7/8/2026, 1:02:02 PM"
+}
