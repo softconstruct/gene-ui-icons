@@ -1,0 +1,11 @@
+{
+    "id": "TextHeader2Major",
+    "name": "TextHeader2",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "header", "heading", "h2", "subtitle", "format", "typography", "editor"],
+    "aliases": [""],
+    "description": "The Text Header 2 icon represents the second-level heading (H2), commonly used to apply a section heading style to text in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "TextSuperscriptMajor",
+    "name": "TextSuperscript",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "superscript",
+        "script",
+        "upper",
+        "exponent",
+        "power",
+        "format",
+        "typography",
+        "editor"
+    ],
+    "aliases": [""],
+    "description": "The Text Superscript icon represents superscript text formatting, commonly used to place smaller characters above the baseline, such as exponents or footnotes, in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}

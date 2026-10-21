@@ -1,0 +1,11 @@
+{
+    "id": "TextHeader1Major",
+    "name": "TextHeader1",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "header", "heading", "h1", "title", "format", "typography", "editor"],
+    "aliases": [""],
+    "description": "The Text Header 1 icon represents the first-level heading (H1), commonly used to apply the largest heading style to text in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}
