@@ -1,0 +1,20 @@
+{
+    "id": "TextStrikethroughMajor",
+    "name": "TextStrikethrough",
+    "set": "major",
+    "type": "outline",
+    "keywords": [
+        "text",
+        "strikethrough",
+        "strike",
+        "cross out",
+        "delete",
+        "format",
+        "typography",
+        "editor"
+    ],
+    "aliases": [""],
+    "description": "The Text Strikethrough icon represents strikethrough text formatting, commonly used to draw a line through text to mark it as removed or outdated in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "TextSubscriptMajor",
+    "name": "TextSubscript",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "subscript", "script", "lower", "index", "format", "typography", "editor"],
+    "aliases": [""],
+    "description": "The Text Subscript icon represents subscript text formatting, commonly used to place smaller characters below the baseline, such as in chemical formulas, in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}

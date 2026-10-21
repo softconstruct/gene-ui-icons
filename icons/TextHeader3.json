@@ -1,0 +1,11 @@
+{
+    "id": "TextHeader3Major",
+    "name": "TextHeader3",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["text", "header", "heading", "h3", "subheading", "format", "typography", "editor"],
+    "aliases": [""],
+    "description": "The Text Header 3 icon represents the third-level heading (H3), commonly used to apply a subsection heading style to text in editors and user interfaces.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "10/21/2026, 4:32:22 PM"
+}
