@@ -1,0 +1,11 @@
+{
+    "id": "SaveMajor",
+    "name": "Save",
+    "set": "major",
+    "type": "outline",
+    "keywords": ["save", "floppy", "disk", "store", "keep", "file", "document", "storage"],
+    "aliases": [""],
+    "description": "The Save icon features a floppy disk, a universally recognized symbol for saving. It is commonly used in applications to save documents, settings, or changes to data.",
+    "sizes": [12, 16, 20, 24, 28, 32, 48],
+    "creation_date": "11/25/2026, 1:58:16 PM"
+}
